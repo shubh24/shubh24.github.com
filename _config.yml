@@ -12,11 +12,11 @@ title : Shubhankar's Blog!
 tagline: Is it 42?
 author :
   name : Shubhankar Srivastava
+  description : Aspiring Data Scientist | Developer | Bitsian    
   email : shubhankar24@gmail.com
   github : shubh24
   twitter : shubh2402
-  feedburner : shubhankar24
-
+  
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
 # Most places will/should use BASE_PATH to make the urls
@@ -73,9 +73,9 @@ JB :
   #
   archive_path: /archive.html
   categories_path : /categories.html
-  tags_path : /tags.html
-  atom_path : /atom.xml
-  rss_path : /rss.xml
+  # tags_path : /tags.html
+  # atom_path : /atom.xml
+  # rss_path : /rss.xml
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
