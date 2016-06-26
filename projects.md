@@ -19,7 +19,7 @@ Here is a brief account of what I've managed to accomplish in the few days I've 
 - [**Kaggle Competitions**](https://www.kaggle.com/shubh24/) : I've participated in a few competitions on Kaggle and have come out learning a lot from each one of them. 
  1. 15.071x - The Analytics Edge (Spring 2015) -- Ranked 1086th :(
  2. Airbnb New User Bookings -- Ranked 1094th :(
- 3. Kobe Bryant Shot Selection -- Ranked 593rd :|
+ 3. Kobe Bryant Shot Selection -- Ranked 593rd -_-
 
 I have a lot to learn!
 

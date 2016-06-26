@@ -3,7 +3,7 @@ layout: post
 title: "The Path should be clear"
 description: "Laying the foundations"
 category: Roadmap
-tags: [promise, motivation]
+tags: [ promise, motivation]
 ---
 {% include JB/setup %}
 
