@@ -1,12 +1,12 @@
 ---
 layout: page
 title: "About Me!"
-
+description: "A brief account of whoami"
 ---
 
 {% include JB/setup %}
 
-# Hello World!
+### Hello World!
 
 Shubhankar Srivastava, an aspiring data scientist is currently living his days in the city of Bangalore. He hails from the city of dreams, Bom..sorry Mumbai, and calls Pilani his second home(first?). 
 
@@ -14,6 +14,8 @@ Shubhankar is studying Computer Science in BITS Pilani, and hopes to make it big
 
 Shubhankar loves to play Lawn Tennis, and wouldn't miss an opportunity to get on the court. For the past six months, he has tried to keep himself on a regular running schedule. Circumstances conspire against him, but he finds his way somehow.
 
-Welcome to Shubhankar's blog. 
+Welcome to *Shubhankar's blog*. 
 
-LEARN | DO | REPEAT -- He calls it life.
+#### LEARN | DO | REPEAT -- He calls it life.
+
+
