@@ -8,6 +8,12 @@ title: "About Me!"
 
 # Hello World!
 
-A Computer Science undergrad at BITS Pilani, a data enthusiast and a technophile! Having interned and worked at growing startups, I know quite a bit about the startup ecosystem and its connect with Data Science.
+Shubhankar Srivastava, an aspiring data scientist is currently living his days in the city of Bangalore. He hails from the city of dreams, Bom..sorry Mumbai, and calls Pilani his second home(first?). 
 
-Learning and coding away at multiple projects currently, trying to find my calling. Aim to dive deeper into NLP and ML, and build something meaningful for this world!
+Shubhankar is studying Computer Science in BITS Pilani, and hopes to make it big in the field of Data Science and Artificial Intelligence. He is currently doing his summer internship in Hewlett-Packard Enterprise, developing Automation Frameworks for god-knows-who! 
+
+Shubhankar loves to play Lawn Tennis, and wouldn't miss an opportunity to get on the court. For the past six months, he has tried to keep himself on a regular running schedule. Circumstances conspire against him, but he finds his way somehow.
+
+Welcome to Shubhankar's blog. 
+
+LEARN | DO | REPEAT -- He calls it life.

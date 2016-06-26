@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Periodical Musings!
+title: Periodical Musings
 tagline: Probably!
 ---
 {% include JB/setup %}
