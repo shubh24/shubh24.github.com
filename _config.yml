@@ -9,7 +9,7 @@ highlighter: rouge
 # so be sure to set them if your theme uses them.
 #
 title : Shubhankar's Blog!
-tagline: Is it 42?
+tagline: Periodical Musings
 author :
   name : Shubhankar Srivastava
   description : Aspiring Data Scientist | Developer | Bitsian    
@@ -73,6 +73,7 @@ JB :
   #
   archive_path: /archive.html
   categories_path : /categories.html
+  about_path : /about.md
   # tags_path : /tags.html
   # atom_path : /atom.xml
   # rss_path : /rss.xml
