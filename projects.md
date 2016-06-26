@@ -12,14 +12,17 @@ Here is a brief account of what I've managed to accomplish in the few days I've 
 ### #Data #ML #AI
 
 - [**RevMine**](https://bit.ly/revmine) : A Chrome Extension that uses NLP and IR techniques to extract latent features and their corresponding sentiments from product reviews. 
-  ..* Ranked 4th in the Indiahacks Hackathon organized by HackerEath.
-  ..* Ranked 1st in HPE Grand Challenge, BITS Pilani
-  ..* Ranked 1st in APOGEE Project Presentation
+  
+ - Ranked 4th in the Indiahacks Hackathon organized by HackerEath.
+ - Ranked 1st in HPE Grand Challenge, BITS Pilani
+ - Ranked 1st in APOGEE Project Presentation
 
 - [**Kaggle Competitions**](https://www.kaggle.com/shubh24/) : I've participated in a few competitions on Kaggle and have come out learning a lot from each one of them. 
-  - 15.071x - The Analytics Edge (Spring 2015) -- Ranked 1086th :(
-  - Airbnb New User Bookings -- Ranked 1094th :(
-  - Kobe Bryant Shot Selection -- Ranked 593rd :|
+  
+ - 15.071x - The Analytics Edge (Spring 2015) -- Ranked 1086th :(
+ - Airbnb New User Bookings -- Ranked 1094th :(
+ - Kobe Bryant Shot Selection -- Ranked 593rd :|
+
 I've to learn a lot!
 
 ### #Bots
