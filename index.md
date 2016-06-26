@@ -1,13 +1,9 @@
 ---
 layout: page
-title: Is it 42?
+title: Periodical Musings!
 tagline: Probably!
 ---
 {% include JB/setup %}
-
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
-
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
 ## My Posts
 
