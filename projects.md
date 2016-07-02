@@ -42,6 +42,10 @@ I have a lot to learn!
 
 - [**Early Warning Systems for Epidemic Diseases using Social Media**](https://docs.google.com/document/d/1smK4jNKFrIHiifp0va9QpXRqzWK862HRY2ZKvjKlmOw/edit?usp=sharing) : Implemented an early warning system for epidemic diseases by analysing trends and anomalies on social media platforms like Twitter.
 
+### #MISC
+
+- [**Trump-Detect**](https://github.com/shubh24/Trump-Detect) : Wrote the Face Recognition Module for [TrumpCat](https://chrome.google.com/webstore/detail/trumpcat/), a Chrome Extension that detects images of Donald Trump and replaces them with those of cats. Enjoy a Trump-less Internet!
+
 ### #CLI
 
 - [**Monica**](https://github.com/Zephrys/monica/) : Monica is a command line chef that brings you tasty food. Integrated with Zomato API, available as a Python Package!
