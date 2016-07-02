@@ -9,7 +9,7 @@ tags: [weekly]
 
 Here is the weekly report of what I've been upto -- from 25th of June to the 1st of July!
 
-I had a long chat with a mentor of mine - [Jaideep Bir](https://www.facebook.com/jaideepbir), regarding future possibilities within the domain of video and social media. I feel that CaseyBot is something that is commercializable and thus we'll try and delve deeper into this domain.
+I had a long chat with a mentor of mine - [Jaideep Bir](https://www.facebook.com/jaideepbir), regarding future possibilities within the domain of video and social media. I feel that [CaseyBot](https://github.com/shubh24/casey-compile) is something that is commercializable and thus we'll try and delve deeper into this domain.
 
 My friend, [Gyanendra](https://github.com/h4ck3rk3y/) had built this Chrome extension -- [TrumpCat](https://gyani.net/blog/trump-cat/) that replaces images of Donald Trump with those of cats. However for Trump Detection, Alchemy Vision API was being called. Thus, I built Trump-Detect, which uses the LBPH Face Recognizer Module in OpenCV, which basically builds a histogram of deltas w.r.t each pixel. It then compares the histograms of test images for identification.
 
