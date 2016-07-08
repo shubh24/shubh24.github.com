@@ -33,10 +33,10 @@ I wrote a small script to analyze how the probability of winning a point affects
 
 Having started work on simulating the match, I decided to verify my results with a measured simulation. So, I'm keeping Federer at - Zero Sets, Zero Games, Zero Points, while I vary my score over the first three sets. For each score, I'm testing over Ten Thousand iterations to have a big enough sample. In the simulation, I've calculated different probabilities for my service and return games - based on Federer's statistics from the ['08 final](https://www.youtube.com/watch?v=-1yfWb0-jqQ). For each iteration, I pick a random number and if it's greater than 0.99(plus minus the service/return factor), I win a point, and thus the match progresses.
 
-![Score](/images/score1.jpg)
+![Score](/images/score2.jpg)
 `How I'm winning over different starting scores`
 
-Clearly the graph shoots up at Match Point, two sets up -- indicating that I'll win the match 140 times out of the 10K trials. This result is very much in accordance with the probability approach that I'd shown above. The script for the simulation can be found [here](https://github.com/shubh24/beat-federer/blob/master/simulate.py).
+Clearly the graph shoots up at Match Point, two sets up -- indicating that I'll win the match 140 times out of the 10K trials. The interesting thing to see is that it peaks again in the tie-break when I'm 6-0 up. This is because in the tie-break, I would have six match points to play with, while at 5-0,40-0 I'd have only 3 match points. The script for the simulation can be found [here](https://github.com/shubh24/beat-federer/blob/master/simulate.py).
 
 Yeah, so that's pretty much it! Waiting for the results to be announced by FiveThirtyEight!
 
