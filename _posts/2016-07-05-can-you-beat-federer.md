@@ -24,7 +24,7 @@ Here p is the probability of me winning a point against Federer, assumed to be 0
 
 Thus, the probability to win a set and therefore, a match can similarly be calculated. However, as described in the question, we need to decide the starting score, thus the scores need to be iterated over. 
 
-Post calculation, I could easily see that starting from 2 sets to love, 5-0, 40-0 will give me the highest probability to win the match. The calculation can be verified in this [script](https://github.com/shubh24/beat-federer/blob/master/prob.py). The exact value of me winning the third set (from 2-0, 5-0, 40-0) is 0.0100010366568. Considering that I lose that set, there is absolutely no question of coming back -- chances of me winning a new set from Federer are 2.35304918031e-39. Awesome!
+Post calculation, I could easily see that starting from 2 sets to love, 5-0, 40-0 will give me the highest probability to win the match. The calculation can be verified in this [script](https://github.com/shubh24/beat-federer/blob/master/prob.py). The exact value of me winning the third set (from 2-0, 5-0, 40-0) is 0.0297020058671. Considering that I lose that set, there is absolutely no question of coming back -- chances of me winning a new set from Federer are 2.35304918031e-39. Awesome!
 
 I wrote a small script to analyze how the probability of winning a point affects the probability of winning a game, set or match. 
 
@@ -39,6 +39,9 @@ Having started work on simulating the match, I decided to verify my results with
 Clearly the graph shoots up at Match Point, two sets up -- indicating that I'll win the match 140 times out of the 10K trials. This result is very much in accordance with the probability approach that I'd shown above. The script for the simulation can be found [here](https://github.com/shubh24/beat-federer/blob/master/simulate.py).
 
 Yeah, so that's pretty much it! Waiting for the results to be announced by FiveThirtyEight!
+
+Edit : So, apparently I didn't think through the problem carefully -- the correct answer is 2 sets up, 6-0 up in third set's tie-breaker. The probability would be around 5.85% while I'd calculated 2.97%. Here, have a look at the official [solution](http://fivethirtyeight.com/features/can-you-save-riddler-headquarters-from-laser-larry-please/). 
+
 
 Find the Github repository [here](github.com/shubh24/beat-federer).  
 
