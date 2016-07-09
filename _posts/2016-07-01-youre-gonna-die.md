@@ -7,7 +7,7 @@ tags: [motivation]
 ---
 {% include JB/setup %}
 
-[![IMAGE ALT TEXT](/images/die.png)](https://www.youtube.com/watch?v=0wdUDD6HaC0 "You're gonna die!")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0wdUDD6HaC0" frameborder="0" allowfullscreen></iframe>
 
 Life is very much like a school examination - You know that you'll attempt Section B after you'll attempt Section A. You know that you go to college after you pass high school. You know that if you copy from the topper, you'll pass the exam. It's all very deterministic.
 The only difference is, IRL, you never know when the inviligator is going to take away your sheet. 
