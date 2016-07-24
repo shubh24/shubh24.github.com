@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Weekly Report 4"
-description: ""
+description: "Last week in Bangalore!"
 category: Report
 tags: [weekly]
 ---
