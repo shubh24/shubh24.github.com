@@ -3,7 +3,7 @@ layout: post
 title: "Weekly Report 3"
 description: "Work Work Work Work Work..."
 category: Report
-tags: [weekly]
+tags: [weekly, internship, birbal]
 ---
 {% include JB/setup %}
 

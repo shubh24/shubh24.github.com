@@ -3,7 +3,7 @@ layout: post
 title: "Weekly Report 2"
 description: "Launching Birbal and cycling in Bangalore!"
 category: Report
-tags: [weekly]
+tags: [weekly, birbal, fitness]
 ---
 {% include JB/setup %}
 My weekly report - from the 3rd of July to the 9th of July. It has been a rather busy week, though I would rank the productivity as okay-ish. 
