@@ -11,7 +11,7 @@ This blog marks my debut at travel blogging, an area which I'd like to explore f
 
 So, last Saturday, me along with [Dhruv](https://www.facebook.com/dhruvgoel2295),[Kshitij](https://www.facebook.com/kshitij.agarwal.1422) and [Shambhavi](https://www.facebook.com/shambhavi.mehrotra.3) went on a day-trek to Nandi Hills. Wikitravel told us that the fort on the hills was Tipu Sultan's personal summer resort, and some Prime Ministers in independent India have also visited thereafter.
 
- We hired two scootys the previous night, thanks to RentOnGo. The 3 guys began from HSR and picked me up at Marathahalli at around 7 in the AM. The road trip was liberating, to say the least! I sat pillion behind Shambhavi and enjoyed every bit of the monsoonish weather -- it took us about 3 hours to reach up the hills, thanks to my awesome Google Maps skills(sarcasm!).
+ We hired two scootys the previous night, thanks to WheelStreet. The 3 guys began from HSR and picked me up at Marathahalli at around 7 in the AM. The road trip was liberating, to say the least! I sat pillion behind Shambhavi and enjoyed every bit of the monsoonish weather -- it took us about 3 hours to reach up the hills, thanks to my awesome Google Maps skills(sarcasm!).
 
 ![Road Trip](/images/road_trip.jpg)
 
@@ -41,4 +41,4 @@ Leaving you with another of `Just Bangalore Things`,
 
 ![Snapchat](/images/snapchat.jpg)
 
-I mean, come on!!l
+I mean, come on!!

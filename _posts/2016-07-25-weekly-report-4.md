@@ -9,7 +9,7 @@ tags: [weekly]
 
 My weekly report - from the 18th of July to the 24th of July. This week went too fast -- I feel life's moving too fast. Slow down and appreciate the sunsets. Slow the hell down!
 
-Good development on Birbal -- A basic Telegram bot is ready with simple functionalities. It still needs to be iterated over and over, we want to understand more use cases and remodel the bot accordingly. I enjoyed the process of thinking about the core of our algorithm i.e. how ratings would be quantified and how specific features would be evaluated. Thanks to [@gyani](github.com/h4ck3rk3y), the Flipkart scraper and the Telegram bot are working well.    
+Good development on Birbal -- A basic Telegram bot is ready with simple functionalities. It still needs to be iterated over and over, we want to understand more use cases and remodel the bot accordingly. I enjoyed the process of thinking about the core of our algorithm i.e. how ratings would be quantified and how specific features would be evaluated. Thanks to [@gyani](https://github.com/h4ck3rk3y), the Flipkart scraper and the Telegram bot are working well.    
 
 I've been practicing competitive coding a little more seriously, but I'm still not at the level I'd expected myself to be going into the placements. There is still a week to go, and I intend to polish up on theory and coding skills.  
 
