@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Placed at Myntra! | Weekly Report 7"
+title: "Placed at Myntra!"
 description: "16 Tests, 4 Interviews, 1 Job"
 category: Roadmap
 tags: [weekly, placement, pilani]
