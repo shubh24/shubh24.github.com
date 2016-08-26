@@ -5,11 +5,10 @@ description: "A Statistical Approach"
 category: Math
 tags: [fivethirtyeight, puzzle, tennis]
 ---
-{% include JB/setup %}
 
 This weekend, I came across a puzzle on FiveThirtyEight - [Can you figure out How to Beat Roger Federer at Wimbledon?](http://fivethirtyeight.com/features/can-you-figure-out-how-to-beat-roger-federer-at-wimbledon/)! I just had to dive in! Now this challenge had Monday morning as a deadline, so I decided to pull an all-nighter(gave up by 5 in the morning -_-)! Little did I know, it took me 2 more days to completely understand the problem. 
 
-![Federer](/images/federer.jpg)
+![Federer]({{site.baseurl}}/images/federer.jpg)
 
 So, the problem states that I'm playing Federer, in his prime in the Wimbledon Championship Finals, and I have the liberty to start the match at any score of my choice. I have a 1% chance of winning a point against Federer. I have to decide which point should I start the match and what would be the probability of me winning the match. 
 
@@ -19,7 +18,7 @@ My initial approach was to code the tennis match and then iterate over the possi
 
 I came across an excellent research paper, [Forecasting the winner of a tennis match](http://cdata4.uvt.nl/websitefiles/magnus/paper64.pdf), which highlighted the key areas I needed to concentrate on. Ideally, this is not a simulation problem, rather one from Combinatrics. To win a game, I need to win 4 points -- so the probability can be easily calculated. 
 
-![Equation](/images/eqn.png)
+![Equation]({{site.baseurl}}/images/eqn.png)
 Here p is the probability of me winning a point against Federer, assumed to be 0.01.
 
 Thus, the probability to win a set and therefore, a match can similarly be calculated. However, as described in the question, we need to decide the starting score, thus the scores need to be iterated over. 
@@ -28,12 +27,12 @@ Post calculation, I could easily see that starting from 2 sets to love, 5-0, 40-
 
 I wrote a small script to analyze how the probability of winning a point affects the probability of winning a game, set or match. 
 
-![Prob](/images/prob1.jpg)
+![Prob]({{site.baseurl}}/images/prob1.jpg)
 `How the chances of a player winning changes with the chances of his winning a point`
 
 Having started work on simulating the match, I decided to verify my results with a measured simulation. So, I'm keeping Federer at - Zero Sets, Zero Games, Zero Points, while I vary my score over the first three sets. For each score, I'm testing over Ten Thousand iterations to have a big enough sample. In the simulation, I've calculated different probabilities for my service and return games - based on Federer's statistics from the ['08 final](https://www.youtube.com/watch?v=-1yfWb0-jqQ). For each iteration, I pick a random number and if it's greater than 0.99(plus minus the service/return factor), I win a point, and thus the match progresses.
 
-![Score](/images/score2.jpg)
+![Score]({{site.baseurl}}/images/score2.jpg)
 `How I'm winning over different starting scores`
 
 Clearly the graph shoots up at Match Point, two sets up -- indicating that I'll win the match 140 times out of the 10K trials. The interesting thing to see is that it peaks again in the tie-break when I'm 6-0 up. This is because in the tie-break, I would have six match points to play with, while at 5-0,40-0 I'd have only 3 match points. The script for the simulation can be found [here](https://github.com/shubh24/beat-federer/blob/master/simulate.py).

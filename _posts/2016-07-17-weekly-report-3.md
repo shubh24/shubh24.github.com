@@ -5,7 +5,6 @@ description: "Work Work Work Work Work..."
 category: Report
 tags: [weekly, internship, birbal]
 ---
-{% include JB/setup %}
 
 My weekly report - from the 10th of July to the 16th of July. A pretty intense week at work; I submitted two of my deliverables for review and demos!
 

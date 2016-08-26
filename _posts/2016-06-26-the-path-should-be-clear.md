@@ -5,7 +5,6 @@ description: "Laying the foundations"
 category: Roadmap
 tags: [ promise, motivation]
 ---
-{% include JB/setup %}
 
 ###### If you're doing what everyone else is doing, you're doing it wrong. -- Casey Neistat
 

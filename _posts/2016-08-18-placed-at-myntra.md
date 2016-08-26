@@ -5,7 +5,6 @@ description: "16 Tests, 4 Interviews, 1 Job"
 category: Roadmap
 tags: [weekly, placement, pilani]
 ---
-{% include JB/setup %}
 
 It's 2:50 in the A.M. as I sit down after an intensely blurry day at the Placement Unit Office. The onslaught started at 8 A.M. and didn't stop till 5 in the evening. I was sent to appear for Cisco's online test at 5, but left it midway when the confirmation came in by 5:30! It doesn't feel different than any other day, just get the feel I've ticked off one of the socially defined checkboxes in life.
 
