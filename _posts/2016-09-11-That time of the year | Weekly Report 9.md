@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: "That time of the year | Weekly Report 9"
 category: Report
-tags: [ 'weekly', 'fitness', 'pilani', 'skateboarding' ]
+tags: [ 'weekly', 'fitness', 'pilani', 'skateboarding', 'bosm',]
 ---
 
 My weekly report - from the 5th of September to the 11th of September. These days were dedicated, in their entirety, to the wonderful game of tennis!
