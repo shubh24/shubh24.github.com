@@ -14,7 +14,7 @@ It's freezing cold as I wake up to the Himalayan ranges towering above me in the
 
 `03:50, Machapuchchre Base Camp`
 
-As excited as a 5-year old, I'm all set to trek! I spit on my palms, and sprint a couple of 30 metre stretches to warm up. Gyani's vlogged the customary beginnning of the day -- we trek 400 metres uphill to ABC, soak in the sunrise and then begin our 2000 metre descent to Bamboo, all within 12 hours. 
+As excited as a 5-year old, I'm all set to trek! I spit on my palms, and sprint a couple of 30 metre stretches to warm up. Gyani's vlogged the customary beginnning of the day -- we trek 400 metres uphill to ABC, watch the sunrise and then begin our 2000 metre descent to Bamboo, all within 12 hours. 
 
 Man, it's gonna be a long day!   
 
@@ -51,7 +51,7 @@ At this stage, I can't even feel my face, the temperature is definitely in negat
 
 ![abc board]({{site.baseurl}}/images/abc_board.jpg)
 
-As we inch closer, the vlogging camera is out and our emotions are captured in their rawest forms. We take a couple pictures, and you can see "pure relief" on my face! We have a couple glasses of boiled water to warm ourselves, as I realize my fingers' existence!
+As we inch closer, the vlogging camera is out and our emotions are captured in their rawest forms. We take a couple pictures, and you can see "pure relief" on my face! We have a thermos of boiled water to warm ourselves, as I realize my fingers' existence!
 
 I try and soak in the mountains, it's too much to take! Watching the Himalayas is one of the more humbling experiences you can have. You've worked so hard to get here and when you realize the scale of the mountains, all sense of achievement and pride dies!
 
@@ -59,7 +59,7 @@ I try and soak in the mountains, it's too much to take! Watching the Himalayas i
 
 `15:00, Bamboo (2100 metres)`
 
-We'd begun our descent from ABC at around 07:30, and it's been an unsurprisingly introspective down trek for me. When I reflect on the risks I'd taken today morning, I ask myself "Why did I do it?" I still have no answers, but there are a few probables! 
+We'd begun our descent from ABC at around 07:30, and it's been an unsurprisingly introspective trek for me. When I reflect on the risks I'd taken today morning, I ask myself "Why did I do it?" I still have no answers, but there are a few probables! 
 
 Probably because it's there to be done,
 
@@ -85,7 +85,9 @@ Probably I like listening to peoples' stories,
 Probably there's no reason and it doesn't matter after all!
 
 
-Probably the experience of watching the sunrise over the mountains is unexplainable. Perhaps, why you do it can't be explained.
+Probably the experience of watching the sunrise over the mountains is unexplainable. 
+
+Why you do it can't be explained. Humans are a strange people.
 
 ![abc selfie]({{site.baseurl}}/images/abc_selfie.jpg)
 
