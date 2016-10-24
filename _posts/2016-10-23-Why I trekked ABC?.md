@@ -92,7 +92,7 @@ Why you do it can't be explained. Humans are a strange people.
 ![abc selfie]({{site.baseurl}}/images/abc_selfie.jpg)
 
 
-`On day you'll leave this world behind, so live a life you will remember! -- Avicii`
+`One day you'll leave this world behind, so live a life you will remember! -- Avicii`
 
 
 
