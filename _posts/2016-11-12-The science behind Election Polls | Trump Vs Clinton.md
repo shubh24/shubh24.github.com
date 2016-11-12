@@ -8,11 +8,11 @@ tags: [ 'fivethirtyeight', 'elections', 'data science', ]
 
 On the 9th of November 2016, Donald J Trump became USA's President-elect, surprising one and all! The journalistic community has gone beserk since, debating over how and why this has happened... But even more crazed are the *pollsters* who've been absolutely stumped by the results of the elections. Majority of the forecast polls had predicted a Clinton presidency, quite a few of them even placing their predictions as high as 98%.
 
-Nate Silver, editor-in-chief of [FiveThirtyEight](https://www.fivethirtyeight.com), is one of the most reputed analysts in the business. If you agree to Silver's models, the Republican had a 35% chance to get through. The highest any forecaster/pollster had given him! 
+Nate Silver, editor-in-chief of [FiveThirtyEight](https://www.fivethirtyeight.com), is one of the most reputed analysts in the business. If you agree with Silver's models, the Republican had a 35% chance to get through. The highest any forecaster/pollster had given him! 
 
 ![How stupid Silver looks]({{site.baseurl}}/images/how_stupid.png)
 
-"As you can see in the graphic above, our model predicts that me fucking this election up would be “very embarrassing” at best, although a career or life-ruining public backlash also falls within the margin of error." -- Nate Silver.
+*"As you can see in the graphic above, our model predicts that me fucking this election up would be “very embarrassing” at best, although a career or life-ruining public backlash also falls within the margin of error."* -- Nate Silver.
 
 If you favor a Twitter war between Silver and Grim on whether a GLM with a logistic link is the same as logistic regression, check [this](http://www.mediaite.com/online/nate-silver-goes-to-war-with-huffpost-writer-after-highly-critical-column/) out! 
 
@@ -39,21 +39,21 @@ The smoothing constants are left to the discretion of the analysts, which is one
 
 *"We should just trust him ― which means his correctness is not falsifiable.  When somebody creates a system that cannot be proven wrong or criticized, it becomes hard to believe it is right."* -- Dale Rosenthal in his [attack](http://www.huffingtonpost.in/entry/im-a-stats-prof-heres-why-nate-silvers-model-was-all-over-the-place_us_582238dce4b0d9ce6fbf69b6) on Nate Silver
 
-5.*House effects adjustment* -- Certain pollster organizations are known to be either left-leaning or right-leaning depending on their history. It is a factor which has to be adjusted varyingly for different candidates differently in different states. 
-
-However this adjustment is done according to FiveThirtyEight's own pollster ratings to generate an average poll, which sounds pretty circular to me! 
+5.*House effects adjustment* -- Certain pollster organizations are known to be either left-leaning or right-leaning depending on their history. It is a factor which has to be adjusted varyingly for different candidates differently in different states. This adjustment is done by generating an average poll(based on pollster ratings), and then comparing each poll against that average poll. 
 
 **3. Combine polls with data** -- At this stage, economic factors as well as demographic differences are accounted for in the model. Also, the previously stated "Undecided Voters" are dealt here. 
 
 1. *Partisan Voter Index* -- The Partisan Voter Index (PVI), defines how democratic or republican a state has historically been. It is calculated by voter share for either party in previous presidential elections. PVI is an extremely useful indicator in regression models! 
 
+![Democrats Vs Republicans]({{site.baseurl}}/images/dem_v_rep.png)
+
 2. *Demographic of a state* -- The United States are divided into four major demographic regions, which is also an important indicator for the model.(Northeast, South, Midwest, West)
 
 3. *Economic situation of a state* -- Various economic indicators of a state aggregated together generates the economic index. This is an important factor to analyze whether anti-incumbency is on the rise in that specific state, because of voter anger towards unemployment, or routine work. Forecasts based on purely the economic statuses of the states are called "Fundamental Forecasts".  
 
-4. *Elasticity of a state* -- Many states are historically Democratic or Republican, but certain "swing states" can sway the elections either way -- this generally happens because of the breakup of that state is pretty uniform. The "elasticity" is thus, the effect a development in either presidential campaign can have on the voter share -- higher the swing, more the elasticity. 
+4. *Elasticity of a state* -- Many states are historically Democratic or Republican, but certain "swing states" can sway the elections either way -- this generally happens because the breakup of that state is pretty uniform in terms of race/education levels. The "elasticity" is thus, the effect a development in either presidential campaign, can have on the voter share -- higher the swing, more the elasticity. 
 
-All these factors are included in their regression model, and blended with the previously modified poll average. The undecided voters are split evenly between the two candidates, but a small portion might be allocated to third/fourth party candidates in a liberal state. According to Silver, this election is unique as there are an unusually high number of undecided voters till very late into the campaigns -- this introduces a lot of uncertainity into the models! A 44-41 lead is a lot less safe than a 51-48 lead, even though they are both 3-point leads.
+All these factors are included in their regression model, and blended with the previously modified poll average. The undecided voters are split evenly between the two candidates, but a small portion might be allocated to third/fourth party candidates in some states. According to Silver, this election is unique as there are an unusually high number of undecided voters till very late into the campaigns -- this introduces a lot of uncertainity into the models! A 44-41 lead is a lot less safe than a 51-48 lead, even though they are both 3-point leads.
 
 **4. Simulation** -- The model is simulated tens of thousands of times, so as to minimize the sampling error. Each simulation accounts for three potential types of error and uncertainty:
 
@@ -65,11 +65,11 @@ All these factors are included in their regression model, and blended with the p
 
 **The Demographic/Regional error** is the most important of the three -- if Trump beats his polls in Minnesota, he’ll probably also do so in Wisconsin. This correlation can be explained by similar voter perceptions in states which are similar in terms of the populace breakup. In my opinion, this is one of the errors which the Democratic Camp had underestimated greatly -- a systemic error that showed up in state polls as well as national polls. 
 
-These simulations are borrowing their error distributions from Student t-Distribution, which have fatter tails, thus giving high probabilities to unlikely events. This is one of the major reasons why Trump has gotten a high probability, the predicted unlikely event. However, this is also a point of contention for other analysts, as they've questioned the type of t-distribution chosen and why! More research to be done on this point!
+**Important Side-Note** -- These simulations are borrowing their error values from the student t-Distribution, which have fatter tails, thus giving high probabilities to unlikely events. This is one of the major reasons why Trump got such a high probability, which was perceived as the unlikely event. However, this is also a point of contention for other analysts, as they've questioned the type of t-distribution chosen and why! More research to be done on this point!
 
 **My Insights!** 
 
-If you've read so far, I hope you get the technicalities of forecast polls and why they work(or don't!). Analysts are still out on why most polls have failed, not just in this election but in the Israeli national election, the Scottish referendum and the UK general election, to name a few! Echo-Chambers is a term being thrown around quite a lot, the "left" doesn't know about the "right", and vice versa. Even the data scientists are accused of living in their bubble, and trying to affect the poll results as per their perception of the elections. Another theory going around is that Trump supporters were not comfortable revealing their choice to pollsters. It has also been seen that more people were okay with revealing "Trump" to automated voice polling than live person polling! Some allege that Democrats got too complacent and their turnout was rather subdued compared to the 2012 elections(A lot of Sanders' voters didn't turn up). 
+If you've read so far, I hope you get the technicalities of forecast polls and why they work(or don't!). Analysts are still working on why most polls have failed, not just in this election but in the Israeli national election, the Scottish referendum and the UK general election, to name a few! Echo-Chambers is a term being thrown around quite a lot, the "left" doesn't know about the "right", and vice versa. Even the data scientists are accused of living in their bubble, and trying to affect the poll results as per their perception of the elections. Another theory going around is that Trump supporters were not comfortable revealing their choice to pollsters. It has also been seen that more people were okay with revealing "Trump" to automated voice polling than revealing "Trump" to live person polling! Some allege that Democrats got too complacent and their turnout was rather subdued, compared to the 2012 elections(A lot of Sanders' voters didn't turn up). 
 
 Heck even Trump's data science team had placed their chances at 8% three weeks ago! The science is still out on what actually happened. Hope this helps!
 
