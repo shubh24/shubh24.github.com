@@ -30,11 +30,14 @@ So, even though every pollster was wrong, FiveThirtyEight was the least wrong. T
 
 4. *Trend line adjustment* -- The Trendlines are basically indicators of the flow of data. In our context, several pollsters have multiple versions of their polls, week after week. This periodical poll data is extremely useful in the sense that the sentiment with either candidate can be gauged perfectly, each version against the previous. This will eliminate any noise in the polls, as we're just concerned with the delta -- Compare apples with apples!
 
-Technically, LOWESS(Local Regression) is used to map the trendlines. The data points are averaged in small sub-sections, so as to get a better picture of voter share over time. In the earlier stages of the campaign, the trend lines are smoothed conservatively(high smoothing constant), but the smoothing becomes more aggresive as the elections approach. This is done so as to account more for voter points closer to the elections rather than further to the elections. *include image of lowess* 
+Technically, LOWESS(Local Regression) is used to map the trendlines. The data points are averaged in small sub-sections, so as to get a better picture of voter share over time. In the earlier stages of the campaign, the trend lines are smoothed conservatively(high smoothing constant), but the smoothing becomes more aggresive as the elections approach. This is done so as to account more for voter points closer to the elections rather than further to the elections. 
+
+![Lowess Curve]({{site.baseurl}}/images/lowess_538.png)
+
 
 The smoothing constants are left to the discretion of the analysts, which is one of the major criticisms against Silver -- fudge factors whose choice is not backed scientifically. 
 
-"We should just trust him ― which means his correctness is not falsifiable.  When somebody creates a system that cannot be proven wrong or criticized, it becomes hard to believe it is right." -- Dale Rosenthal in his [attack](http://www.huffingtonpost.in/entry/im-a-stats-prof-heres-why-nate-silvers-model-was-all-over-the-place_us_582238dce4b0d9ce6fbf69b6) on Nate Silver
+*"We should just trust him ― which means his correctness is not falsifiable.  When somebody creates a system that cannot be proven wrong or criticized, it becomes hard to believe it is right."* -- Dale Rosenthal in his [attack](http://www.huffingtonpost.in/entry/im-a-stats-prof-heres-why-nate-silvers-model-was-all-over-the-place_us_582238dce4b0d9ce6fbf69b6) on Nate Silver
 
 5.*House effects adjustment* -- Certain pollster organizations are known to be either left-leaning or right-leaning depending on their history. It is a factor which has to be adjusted varyingly for different candidates differently in different states. 
 
@@ -58,13 +61,30 @@ All these factors are included in their regression model, and blended with the p
 2. *Demographic error* -- The polls are off in states that have demographic factors in common.
 3. *State-specific error* -- The polls are off in a particular state, with no effect on other states. 
 
-The Demographic/Regional error is the most important of the three -- if Trump beats his polls in Minnesota, he’ll probably also do so in Wisconsin. This correlation can be explained by similar voter perceptions in states which are similar in terms of the populace breakup. In my opinion, this is one of the errors which the Democratic Camp had underestimated greatly -- a systemic error that showed up in state polls as well as national polls. 
+![Correlation Matrix]({{site.baseurl}}/images/correlation_usa.png)
+
+**The Demographic/Regional error** is the most important of the three -- if Trump beats his polls in Minnesota, he’ll probably also do so in Wisconsin. This correlation can be explained by similar voter perceptions in states which are similar in terms of the populace breakup. In my opinion, this is one of the errors which the Democratic Camp had underestimated greatly -- a systemic error that showed up in state polls as well as national polls. 
 
 These simulations are borrowing their error distributions from Student t-Distribution, which have fatter tails, thus giving high probabilities to unlikely events. This is one of the major reasons why Trump has gotten a high probability, the predicted unlikely event. However, this is also a point of contention for other analysts, as they've questioned the type of t-distribution chosen and why! More research to be done on this point!
 
+**My Insights!** 
 
-#turnout(sanders, enthusiasm)
-#disclosure of candidate
-#avg error margin -- we don't know, with time? polls are failing worldwide
-#even trumps data scientists weren't prepared!
-#Data scientist echo chambers -- wrong questions asked
+If you've read so far, I hope you get the technicalities of forecast polls and why they work(or don't!). Analysts are still out on why most polls have failed, not just in this election but in the Israeli national election, the Scottish referendum and the UK general election, to name a few! Echo-Chambers is a term being thrown around quite a lot, the "left" doesn't know about the "right", and vice versa. Even the data scientists are accused of living in their bubble, and trying to affect the poll results as per their perception of the elections. Another theory going around is that Trump supporters were not comfortable revealing their choice to pollsters. It has also been seen that more people were okay with revealing "Trump" to automated voice polling than live person polling! Some allege that Democrats got too complacent and their turnout was rather subdued compared to the 2012 elections(A lot of Sanders' voters didn't turn up). 
+
+Heck even Trump's data science team had placed their chances at 8% three weeks ago! The science is still out on what actually happened. Hope this helps!
+
+`Wanna go down a rabbit hole?`
+
+1. [FiveThirtyEight's forecasts](http://projects.fivethirtyeight.com/2016-election-forecast/#plus)
+2. [What a difference of 2 percentage points makes](http://fivethirtyeight.com/features/what-a-difference-2-percentage-points-makes/)
+3. [The polls missed Trump. Why!](http://fivethirtyeight.com/features/the-polls-missed-trump-we-asked-pollsters-why/)
+4. [Why our model is more bullish than others on Trump](http://fivethirtyeight.com/features/election-update-why-our-model-is-more-bullish-than-othmers-on-trump/)
+5. [Clinton's lleading in exactly the states she needs to win](http://fivethirtyeight.com/features/clintons-leading-in-exactly-the-states-she-needs-to-win/)
+6. [When house effects become bias](http://fivethirtyeight.com/features/when-house-effects-become-bias/)
+8. [Criticism of Nate Silver's model](http://www.huffingtonpost.in/entry/nate-silver-election-forecast_us_581e1c33e4b0d9ce6fbc6f7f)
+9. [I'm a stats prof. Here's why Nate Silver's model was all over the place](http://www.huffingtonpost.in/entry/im-a-stats-prof-heres-why-nate-silvers-model-was-all-over-the-place_us_582238dce4b0d9ce6fbf69b6)
+10. [Trump will win -- One of the few correct predictions](http://michaelmoore.com/trumpwillwin/)
+
+Image sources -- [FiveThirtyEight](https://www.fivethirtyeight.com)
+
+And if you're really worried where the United States is headed, chill! Tim Urban's got you [covered](http://waitbutwhy.com/2016/11/its-going-to-be-okay.html)!
