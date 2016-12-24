@@ -87,7 +87,7 @@ icon-192p: "/img/web-app/icon-192p.png"
 # Blog #
 ########
 
-enable-gesture-navigation: True
+enable-gesture-navigation: False
 
 post-preview-words: 96
 
@@ -162,7 +162,7 @@ social:
   - title: "github"
     url: "https://github.com/shubh24"
   - title: "linkedin"
-    url: "in.linkedin.com/in/shubhankarsrivastava"
+    url: "https://www.linkedin.com/in/shubhankarsrivastava"
   - title: "youtube"
     url: "https://www.youtube.com/user/garibaldi1001"
 
@@ -183,7 +183,7 @@ pages_list:
   About: 'about'
   Blog: 'latest-post'
   Timeline: 'timeline'
-
+  Hire Me: 'hire_me'
 # Exclusion list from the generated _site
 
 exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts"]
