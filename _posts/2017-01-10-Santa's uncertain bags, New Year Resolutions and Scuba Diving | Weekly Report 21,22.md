@@ -14,7 +14,7 @@ I first got the framework for training and validating ready, thanks to many help
 
 I took up on my stranded learning project -- Generative neural nets! Revised RNNs and backpropogation, and got a character-rnn generator working for lyrics generation("lyrnn"). I wasn't very impressed with the results, the hyperparameters are tough to tune! I came across an awesome project on [Story generation via images](https://medium.com/@samim/generating-stories-about-images-d163ba41e4ed#.64vhtakpy), which used skip-thought vectors(along the lines of word2vec). Still studying, will be working on it soon!
 
-I also wrote a New Year blog -- "2016 was great | 2017 will be better!(https://shubh24.github.io/shubh24.github.com/report/2016/12/29/2016-was-great-2017-will-be-better!.html)", and put it out on facebook :p. A lot was written, time to do!
+I also wrote a New Year blog -- "[2016 was great 2017 will be better!](https://shubh24.github.io/shubh24.github.com/report/2016/12/29/2016-was-great-2017-will-be-better!.html#)", put it out on facebook. A lot was written, time to do!
 
 Third day into the new year, I went on a 2-day trip with my college friends, to Malvan, a fishing town near Goa. A beautiful place if you're into water sports -- Scuba Diving, Parasailing, you name it! It was fun, i love travelling! Got duped by a bus agent on the way back from Kolhapur, we were forced to vacate our illegal seats in Pune. Resulted in a fun(?) 3-hour post-midnight adventure with Jeet, reached Bombay by morning!
 
