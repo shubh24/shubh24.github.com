@@ -1,3 +1,11 @@
+---
+layout: post
+section-type: post
+title: Getting better at SQL, and a trip to Bombay | Weekly Report 31
+category: report
+tags: [ 'data science', 'kaggle', 'fitness', 'bangalore', 'mumbai' ]
+---
+
 My report from the 6th of February to the 12th of March – an okayish workweek, could've done more with it. 
 
 At work, i've had some sql jobs to attend to. Being historically terrible at it, there's a lot of scope for improvement! wrote a small script to automate a specific report generation job, felt good :)
