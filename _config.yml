@@ -59,6 +59,9 @@ lines: # You can add HTML Tags in the Text
   - text: "You never arrive."
   - text: "Inspiration is for amateurs. Everyone else goes to work"
   - text: "Life is like riding a bicycle. To keep your balance you must keep moving."
+  - text: "Success = f(work)"
+  - text: "Everything is figure-out-able"
+  - text: "24*7*365. Always. Forever."
 
 me-img: "/img/prof_pic.jpg"
 
