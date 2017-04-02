@@ -19,4 +19,3 @@ I stumbled upon a kickass Chrome Extension, which identifies clickbaity news art
 On the fitness front, running is stalled, and workouts are running thin. Although this weekend was pretty productive -- Went for a couple of skateboarding sessions in Cubbon Park, oh i never get bored of that place! Also played a three-setter this morning on clay. Playing on clay is tough. Real tough!
 
 That's all... Later folks :)
-- tennis/skate/makali
