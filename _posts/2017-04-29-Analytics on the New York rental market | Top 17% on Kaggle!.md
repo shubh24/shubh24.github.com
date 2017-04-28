@@ -16,8 +16,6 @@ The domain of this competition intrigued me quite a bit --  Just 4 months ago, i
 
 **My Journey** - For me, this competition has been a real roller coaster -- There was definitely a positive correlation between my mood and my leaderboard position! I’ve learnt a lot though, from crazy feature engineering to implementing new algorithms, from fixing validation leaks to building my custom stacker-ensemble, the learnings serve as a good jumping board for future competitions.
 
-![heatmap]({{site.baseurl}}/images/renthop/kaggle_heatmap.png)
-
 *That being said, this blog is gonna be slightly technical. Leave if you may ;)*
 
 Till now, my standard approach towards building predictive models was to spin up a random forest on the standard variables. Not a lot of exploration or feature engineering -- this approach didn’t give me dividends. In this competition, i spent the first two months understanding the features, and playing around with their combinations!
