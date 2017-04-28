@@ -6,9 +6,9 @@ category: math
 tags: [ 'kaggle', 'data science', 'report' ]
 ---
 
-![nyc]({{site.baseurl}}/images/renthop/renthop_banner_50.jpg)
+![nyc]({{site.baseurl}}/images/renthop/renthop_banner_small.jpg)
 
-This is a documentation of my first serious take on a Kaggle competition - Renthop rental inquiries. Two and a half months, 146 git [commits](https://github.com/shubh24/renthop) and 87 submissions later, i stand within the [Top 17%](https://kaggle.com/shubh24) on the leaderboard -- A position i’m proud of!
+This is a documentation of my first serious take on a Kaggle competition - [Renthop rental inquiries](https://kaggle.com/c/two-sigma-connect-rental-listing-inquiries). Two and a half months, 146 git [commits](https://github.com/shubh24/renthop) and 87 submissions later, i stand within the [Top 17%](https://kaggle.com/shubh24) on the leaderboard -- A position i’m proud of!
 
 The Kaggle competition was organized by Renthop, a rental website specific only to the New York market. Given various listing parameters like price, location, manager(broker), building, images, we had to predict the interest(internet traffic) each rental listing would receive. The “interest_listing” is a discrete variable, partitioned into “high”, “medium” and “low”.
 
