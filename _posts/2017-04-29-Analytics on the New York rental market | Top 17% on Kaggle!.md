@@ -6,7 +6,7 @@ category: math
 tags: [ 'kaggle', 'data science', 'report' ]
 ---
 
-![nyc]({{site.baseurl}}/images/renthop/renthop_banner.jpg)
+![nyc]({{site.baseurl}}/images/renthop/renthop_banner_50.jpg)
 
 This is a documentation of my first serious take on a Kaggle competition - Renthop rental inquiries. Two and a half months, 146 git [commits](https://github.com/shubh24/renthop) and 87 submissions later, i stand within the [Top 17%](https://kaggle.com/shubh24) on the leaderboard -- A position i’m proud of!
 
