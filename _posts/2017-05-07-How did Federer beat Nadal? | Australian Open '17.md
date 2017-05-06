@@ -16,7 +16,7 @@ I’ve been wanting to do a real deep dive into the Fedal rivalry, and the Aus O
 
 In this blog, we’ll be peeking behind Rafa’s beastly forehands, Roger’s beautiful backhand returns and everything in between. How well did they serve on the Ad court, were body serves effective against Roger, and from where did Rafa finish the long rallies? Roger’s backhands were discussed a lot, did he hit them deep, or down the line? Who dominated the rallies, who handled pressure better, and a lot MORE!
 
-![ready]({{site.baseurl}}/images/fedal_aus_open/you_ready.gif)
+![ready]({{site.baseurl}}/images/fedal_aus_open/rihanna.gif)
 
 **Shot Making** 
 
