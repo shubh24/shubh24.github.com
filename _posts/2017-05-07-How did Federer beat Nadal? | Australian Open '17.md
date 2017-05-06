@@ -107,7 +107,7 @@ Good returns are usually fast deep ones, which put the server in a surprised sta
 
 ![return_depth]({{site.baseurl}}/images/fedal_aus_open/return_depth) 
 
-Shown are the percentages of short and deep returns by Federer(on left) and Nadal(on right). Federer has deeper returns across all shots, exceptional on the backhands! Clearly, Rafa should be working on the returns, this would’ve been a high contributing factor to the high percentage of 3-rally points on Federer’s serve.
+Shown are the percentages of short and deep returns by Federer(on left) and Nadal(on right). Federer has deeper returns across all shots, exceptional on the forehands! Clearly, Rafa should be working on the returns, this would’ve been a high contributing factor to the high percentage of 3-rally points on Federer’s serve.
 
 **Groundstrokes** 
 
