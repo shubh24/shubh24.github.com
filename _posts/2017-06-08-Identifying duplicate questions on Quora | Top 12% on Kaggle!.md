@@ -6,7 +6,7 @@ category: math
 tags: [ 'kaggle', 'data science', 'nlp', 'report' ]
 ---
 
-![df_train]({{site.baseurl}}/images/quora/df_train.head.png)
+![quora_banner]({{site.baseurl}}/images/quora/quora_banner.png)
 
 If you are a regular Quoran like me, you have most likely stumbled on duplicate questions asking the same essential question. 
 
@@ -18,7 +18,7 @@ This is a bad user experience for both writers and seekers, as the answers get f
 
 **About the problem** - Quora has given an (almost) real-world dataset of question pairs, with the label of is_duplicate along with every question pair. The objective was to minimize the logloss of predictions on duplicacy in the testing dataset. There were around 400K question pairs in the training set while the testing set contained around 2.5 million pairs. Yeah, 2.5 million! A large majority of those pairs were computer-generated questions to prevent cheating, but 2 and a half million, god! I was maxing out my poor 8GB machine every other hour :(
 
-![quora_banner]({{site.baseurl}}/images/quora/quora_banner.png)
+![df_train]({{site.baseurl}}/images/quora/df_train.head.png)
 
 **[My approach](https://github.com/shubh24/QuoraDuplicate/blob/master/run_quora.ipynb)** - I started off with the xgboost [starter](https://www.kaggle.com/anokas/data-analysis-xgboost-starter-0-35460-lb) by @anokas, and built upon it gradually. My feature-set involved around 70 features which is on a rather lower range, when compared to the Top Kagglers' approaches. My features could be broadly classified into NLP-based features, word embedding based distances and graph-based features. Let me elaborate:
 
