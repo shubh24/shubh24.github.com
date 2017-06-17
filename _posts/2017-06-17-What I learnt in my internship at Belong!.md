@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: What I learnt in my internship at Belong!
+title: What I learned in my internship at Belong!
 category: report
 tags: [ 'belong', 'internship', 'bangalore', 'report' ]
 ---
@@ -9,6 +9,8 @@ tags: [ 'belong', 'internship', 'bangalore', 'report' ]
 `Bangalore Airport, 16th June, 11:43 PM`
 
 Six hours after my farewell at Belong, I look back at the last five months and say to myself, "Too good to not write a blog on it!" Here goes...
+
+![wil]({{site.baseurl}}/images/wil.jpeg)
 
 I started 2017 with a mega report-manifesto, [2016 was great, 2017 will be better!](https://shubh24.github.io/shubh24.github.com/report/2016/12/29/2016-was-great-2017-will-be-better!.html) Belong has been instrumental in shaping that "better" -- i've imbibed a whole new set of mantras, "Relentless Execution" and "#HoJaega" becoming my daily go-tos!
 
