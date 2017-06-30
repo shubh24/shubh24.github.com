@@ -6,6 +6,8 @@ category: travel
 tags: [ 'bhutan', 'trek', 'travel' ]
 ---
 
+<iframe width="640" height="360" src="https://www.youtube.com/embed/SXZzhEcZJY8" frameborder="0" allowfullscreen></iframe>
+
 Bhutan. A cute little green country of strangely "happy" people, obsessed with its culture and religion, the dragon-land was a constant dose of culture shocks for ten straight days! 
 
 Getting to Bhutan is a rather difficult journey, more so for foreign nationals(except Indians and Bangladeshis) who pay $250 for each day in the country. Housing one of the most dangerous airports in the world with limited flight availability, i decided to take the roads from the closest Indian town, Bagdogra. I took a couple flights from Bombay to Delhi and Delhi to Bagdogra, stayed near the border for a night, and then drove into their national capital, Thimphu, the following day. 
