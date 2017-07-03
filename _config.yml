@@ -116,9 +116,14 @@ syntax-highlight: True
 ############
 
 events:
+
   - image: "/img/timeline/spidertocat.png"
     date: "January 2016 - Today"
-    description: "Building cool products!"
+    description: "Building cool products!" 
+
+  - image: "/img/timeline/belong.png"
+    date: "January 2017 - June 2017"
+    description: "Data Analytics Intern at Belong.co"
 
   - image: "/img/timeline/hpe_logo.png"
     date: "May 2016 - July 2016"
