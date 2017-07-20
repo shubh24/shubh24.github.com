@@ -6,7 +6,7 @@ category: report
 tags: [ 'bangalore' ]
 ---
 
-My weekly report from the 16th of June to the 2nd of July -- a second unproductive week on the trot, not good :( The git streak is lost, as i was caught up with a lot of initial setup joining Myntra.
+My weekly report from the 16th of June to the 9th of July -- a second unproductive week on the trot, not good :( The git streak is lost, as i was caught up with a lot of initial setup joining Myntra.
 
 I got started with my onboarding at Myntra, going through an induction boootcamp for freshers -- a nice way to get us started! I liked the focus on vision and values, something similar to how Belong functions -- After all, *people don't buy what you do, they buy why you do it*! Attended an all-hands meet, met my managers, trying to gain as much context as quickly as possible. Got to know about a couple of cool projects i might get to work on -- last-mile delivery amongst them :)
 
