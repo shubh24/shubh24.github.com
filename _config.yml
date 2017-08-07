@@ -119,7 +119,7 @@ events:
 
   - image: "/img/timeline/myntra.png"
     date: "January 2017 - Today"
-    description: "Data Sceince at Myntra" 
+    description: "Data Science at Myntra" 
 
   - image: "/img/timeline/belong.png"
     date: "January 2017 - June 2017"
