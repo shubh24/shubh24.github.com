@@ -117,9 +117,9 @@ syntax-highlight: True
 
 events:
 
-  - image: "/img/timeline/spidertocat.png"
-    date: "January 2016 - Today"
-    description: "Building cool products!" 
+  - image: "/img/timeline/myntra.png"
+    date: "January 2017 - Today"
+    description: "Data Sceince at Myntra" 
 
   - image: "/img/timeline/belong.png"
     date: "January 2017 - June 2017"
