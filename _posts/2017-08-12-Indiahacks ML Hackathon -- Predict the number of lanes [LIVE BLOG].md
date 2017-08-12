@@ -1,7 +1,7 @@
-	---
+---
 layout: post
 section-type: post
-title: Indiahacks ML Hackathon -- Predict the number of lanes [LIVE BLOG]
+title: Indiahacks ML Hackathon [LIVE BLOG]
 category: report
 tags: [ 'data science', 'machine learning', 'hackathon' ]
 ---
