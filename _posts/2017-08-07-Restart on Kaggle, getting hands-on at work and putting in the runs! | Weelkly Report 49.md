@@ -6,7 +6,7 @@ category: report
 tags: [ 'kaggle', 'data science', 'fitness', 'myntra', 'bangalore', 'vlog' ]
 ---
 
-My weekly report from the 30th of July to the 6th of August -- am improved week in terms of productivity, still not there though. Just a matter of time, need to get rid of all distractions :) I'm pretty worked up about missing last week's blog, this had not happened in quite a while, shouldn't happen again.
+My weekly report from the 30th of July to the 6th of August -- am improved week in terms of productivity, still not there though. Just a matter of time :) I'm pretty worked up about missing last week's blog, this had not happened in quite a while, shouldn't happen again.
 
 I'd taken up the Instacart challenge meanwhile, but i felt a little overwhelmed by the amount of initial data preprocessing/domain understanding required. Unconsciously, this project has moved to the graveyard of unfinished starts :(
 
