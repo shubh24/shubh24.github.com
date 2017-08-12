@@ -21,3 +21,7 @@ Learning:The evaluation criteria is F1-score for every value of number of roads,
 **August 12, 20:06** It's crazy how simple features can boost your score straight up! Implemented a couple or so transformed features like "Min difference of road length and lane length", "Road aspect ratio" etc have landed me at 4th position. The ranks are shuffling rapidly, its getting intense! But first, gotta focus on a Dominos pizza sitting right beside me ;)
 
 **August 12, 22:06** Haven't made any progress on the leaderboard, am trying to find the patterns behind certain incosistencies in the dataset. Why are there two sets of "Total Lanes" for a single lane entry, haven't been able to figure it out. Attempts at taking only the rows with "more lanes" hasn't worked either. Keeping at it.
+
+Learning: Don't include all features which are negatively correlated to the target variable. You might think they're giving a negative feedback loop to the model, but apparently no! Gotta read more on this.
+
+**August 12, 23:35** I'm testing on my existing feature set, pruning on some of the negatively correlated features. Some of them giving me quite a shock -- lingering around the Top 10 mark currently :(
