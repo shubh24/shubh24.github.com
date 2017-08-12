@@ -25,3 +25,5 @@ Learning:The evaluation criteria is F1-score for every value of number of roads,
 Learning: Don't include all features which are negatively correlated to the target variable. You might think they're giving a negative feedback loop to the model, but apparently no! Gotta read more on this.
 
 **August 12, 23:35** I'm testing on my existing feature set, pruning on some of the negatively correlated features. Some of them giving me quite a shock -- lingering around the Top 10 mark currently :(
+
+**August 13, 01:21** New day yay! I've spent the last hour or so, developing features based on the coordinates of roads and lanes. Trying to build a proxy value for number of lanes of roads which are closer in proximity. I didn't realize the stupididy in this method till quite late, the test dataset's roads are pretty much in a disjoint set than those in train, not giving me any substantial advantage. Its okay, gotta keep going.
