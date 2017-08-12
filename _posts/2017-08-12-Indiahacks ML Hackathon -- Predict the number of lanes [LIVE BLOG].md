@@ -13,3 +13,5 @@ Welcome to my live blog -- My attempts at cracking into the Indiahacks ML hackat
 **August 12, 16:32** Check-in #2 -- Having understood the construct of the problem, and looked at various correlations between features, i'm now down to building some basic features. I submitted a couple solutions based on a very simple heuristic -- minimum and maximum of the number of lane lines recorded(subtract that by 1) for every road. Didn't score anywhere close to good, but it let me get a hang of the problem.
 
 Learning:The evaluation criteria is F1-score for every value of number of roads, not the regular rmse used for regression based problems.
+
+**August 12, 18:08** Just had a cappucino, some good productivity flowing through the past hour or so. A basic feature-engineering pipeline is ready, raring up my xgboost and its parameters for a submit. 
