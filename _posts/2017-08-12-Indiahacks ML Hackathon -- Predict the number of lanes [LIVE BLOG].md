@@ -33,3 +33,5 @@ Learning: Don't include all features which are negatively correlated to the targ
 **August 13, 04:21** I would like to believe i've optimized my xgboost hyperparameters over the past hour, manually though. Just the tuning has pushed me up to 9th place. Going for a short nap now, want to be energized for the last stretch :)
 
 **August 13, 05:49** Good morning! Damn, i'm back at 13th now.
+
+**August 13 06:27** Looking into feature engineering again, had missed out on some variants of "Lane Road Ratio", gave me a boost to 8th place :)
