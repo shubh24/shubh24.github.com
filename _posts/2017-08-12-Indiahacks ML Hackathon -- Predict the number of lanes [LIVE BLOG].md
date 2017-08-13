@@ -37,3 +37,11 @@ Learning: Don't include all features which are negatively correlated to the targ
 **August 13, 06:27** Looking into feature engineering again, had missed out on some variants of "Lane Road Ratio", gave me a boost to 8th place :)
 
 **August 13, 08:07** Having a couple half-hearted dabs at other models, i've decided to stick with xgboost and improve on my feature engineering. Trying out ideas, testing aggressively. The leaderboard seems to have calmed down lately, less than two hours to go. I'm hanging in there at 9th. Feels like this competition is going to be more about who is going to overfit less.
+
+**August 13, 09:16** There has been virtually no movement in my codebase in the past one hour. Probably my mind is not behaving in the most perfect of senses. Guess that's the case with others too, absolutely no shuffling on the leaderboard. Will work on my writeup describing my approach, tools etc. 
+
+Waiting for the private leaderboard now :)
+
+**August 13, 11:22** Aaaand it's over. **Public Leaderboard relesed -- I rank 2nd!** Exceeding expectations! A lot of shuffling within the Top 10, i must say i was anticipitating this given unlimited submissions. Will come up with a proper Data blog soon, but first i gotta catch some sleep :)
+
+Later folks!
