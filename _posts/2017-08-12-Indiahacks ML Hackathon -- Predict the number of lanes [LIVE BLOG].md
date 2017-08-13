@@ -42,6 +42,6 @@ Learning: Don't include all features which are negatively correlated to the targ
 
 Waiting for the private leaderboard now :)
 
-**August 13, 11:22** Aaaand it's over. **Public Leaderboard relesed -- I rank 2nd!** Exceeding expectations! A lot of shuffling within the Top 10, i must say i was anticipitating this given unlimited submissions. Will come up with a proper Data blog soon, but first i gotta catch some sleep :)
+**August 13, 11:22** Aaaand it's over. **Public Leaderboard relesed -- I rank 15th!** A fairly decent performacnce! A lot of shuffling within the Top 10, i must say i was anticipitating this given unlimited submissions. Will come up with a proper Data blog soon, but first i gotta catch some sleep :)
 
 Later folks!
