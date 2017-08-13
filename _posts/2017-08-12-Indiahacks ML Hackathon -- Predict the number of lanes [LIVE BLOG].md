@@ -31,3 +31,5 @@ Learning: Don't include all features which are negatively correlated to the targ
 **August 13, 03:21** Fatigue seems to have set in, i've taken a short power nap and my system seems to be running on biscuits and water. I've slipped to 18th place, although i did bring in some positive features based on minimum geographical distance between lanes. i've been trying to get a GBM model to work, that hasn't given any dividends -- will go ahead with RF or a neural net.
 
 **August 13, 04:21** I would like to believe i've optimized my xgboost hyperparameters over the past hour, manually though. Just the tuning has pushed me up to 9th place. Going for a short nap now, want to be energized for the last stretch :)
+
+**August 13, 05:49** Good morning! Damn, i'm back at 13th now.
