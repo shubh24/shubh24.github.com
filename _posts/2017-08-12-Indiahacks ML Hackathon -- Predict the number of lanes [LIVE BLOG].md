@@ -34,4 +34,6 @@ Learning: Don't include all features which are negatively correlated to the targ
 
 **August 13, 05:49** Good morning! Damn, i'm back at 13th now.
 
-**August 13 06:27** Looking into feature engineering again, had missed out on some variants of "Lane Road Ratio", gave me a boost to 8th place :)
+**August 13, 06:27** Looking into feature engineering again, had missed out on some variants of "Lane Road Ratio", gave me a boost to 8th place :)
+
+**August 13, 08:07** Having a couple half-hearted dabs at other models, i've decided to stick with xgboost and improve on my feature engineering. Trying out ideas, testing aggressively. The leaderboard seems to have calmed down lately, less than two hours to go. I'm hanging in there at 9th. Feels like this competition is going to be more about who is going to overfit less.
