@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Testin gideas in Web Traffic, a short trip to Bombay, and a 16K run! | Weekly Report 52
+title: Testing ideas in Web Traffic, a short trip to Bombay, and a 16K run! | Weekly Report 52
 category: report
 tags: [ 'kaggle', 'data science', 'bombay', 'fitness' ]
 ---
