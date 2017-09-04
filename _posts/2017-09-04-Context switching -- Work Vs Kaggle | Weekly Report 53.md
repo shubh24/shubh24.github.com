@@ -20,3 +20,4 @@ Still no work on 'while-my-code-runs', looking like another project in the grave
 
 Talking about excited, the GoPro Hero 5 Session is here! Just waiting for other accessories, raring to take it out for a vlog test. I still don't have a lot of clarity on my "why" behind the weekly vlog project, gotta figure that out. Went for a long run in Cubbon Park on Sunday, put in a nice 5:01 pace 17.5Km blissful/painful run ;) Satara's gonna be insane :) 
 
+That's it folks. Later!
