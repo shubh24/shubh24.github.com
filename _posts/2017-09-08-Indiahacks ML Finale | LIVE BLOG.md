@@ -11,6 +11,8 @@ Welcome to the Indiahacks Live Blog Version 2.0! This is the grand finale, fifte
 <!-- ![hall_1]({{site.baseurl}}/images/indiahacks_live_blog/hall_1.jpg) -->
 <!-- ![hall_2]({{site.baseurl}}/images/indiahacks_live_blog/hall_2.jpg) -->
 
+**21:05** -- Introduced a language and genre combo, which worsened my score. Kinda weird, but makes sense. Also, submitted my similarities-based approach, gave me 0.12x on the lb. Have a couple more ideas on the "popular" approach, a couple more hours to go. Hanging on to the second position :)
+
 **20:16** -- Introduced language into the previous approach, my lb score jumped up to 0.2288. Currently second on the leaderboard, this is seriously hilarious!
 
 **19:38** -- I'm literally laughing at what has transpired in the last 5 minutes. While my similarities were being computed, i decided to go ahead with a naive submission -- Most popular 20 movies for all users. This stupidity has put me up on 5th position, with 3 more guys tied. While everyone is busy building their pipeline, this naivety seems to have lost on most. Should not be long before people catch up. Gotta improvise :p
