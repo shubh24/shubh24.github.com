@@ -11,6 +11,8 @@ Welcome to the Indiahacks Live Blog Version 2.0! This is the grand finale, fifte
 <!-- ![hall_1]({{site.baseurl}}/images/indiahacks_live_blog/hall_1.jpg) -->
 <!-- ![hall_2]({{site.baseurl}}/images/indiahacks_live_blog/hall_2.jpg) -->
 
+**September 9th, 00:22** -- The competition has been extended till 8AM, came as a shocker to me! I had my dinner, took an Uber back home, and slipped to 8th in the meanwhile! Will fight for a couple more hours now.
+
 **21:53** -- Slipped to 6th. Have tried multiple approaches using view ratio, and considering multiple movies based on the share of their view ratios. Putting in my last ditch efforts now.
 
 **21:05** -- Introduced a language and genre combo, which worsened my score. Kinda weird, but makes sense. Also, submitted my similarities-based approach, gave me 0.12x on the lb. Have a couple more ideas on the "popular" approach, a couple more hours to go. Hanging on to the second position :)
