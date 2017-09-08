@@ -11,6 +11,12 @@ Welcome to the Indiahacks Live Blog Version 2.0! This is the grand finale, fifte
 <!-- ![hall_1]({{site.baseurl}}/images/indiahacks_live_blog/hall_1.jpg) -->
 <!-- ![hall_2]({{site.baseurl}}/images/indiahacks_live_blog/hall_2.jpg) -->
 
+**03:38** -- Yeah, calling it a night. Will update when the private leaderboard is released in the morning.
+
+**02:48** -- I'm trying incremental ideas, not helping a lot. Guess my position is stuck at 9th now. With my mind zoning off, settling the competition seems like the best option.
+
+**01:28** -- There seems to be some bug in the submissions judge, apparently all entries are being rejudged. Meanwhile, i implemented a greedy approach, in decreasing order of language frequency. To be tested. 
+
 **September 9th, 00:22** -- The competition has been extended till 8AM, came as a shocker to me! I had my dinner, took an Uber back home, and slipped to 8th in the meanwhile! Will fight for a couple more hours now.
 
 **21:53** -- Slipped to 6th. Have tried multiple approaches using view ratio, and considering multiple movies based on the share of their view ratios. Putting in my last ditch efforts now.
