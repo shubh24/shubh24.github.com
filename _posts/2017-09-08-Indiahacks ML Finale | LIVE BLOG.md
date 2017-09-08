@@ -11,6 +11,8 @@ Welcome to the Indiahacks Live Blog Version 2.0! This is the grand finale, fifte
 <!-- ![hall_1]({{site.baseurl}}/images/indiahacks_live_blog/hall_1.jpg) -->
 <!-- ![hall_2]({{site.baseurl}}/images/indiahacks_live_blog/hall_2.jpg) -->
 
+**19:38** -- I'm literally laughing at what has transpired in the last 5 minutes. While my similarities were being computed, i decided to go ahead with a naive submission -- Most popular 20 movies for all users. This stupidity has put me up on 5th position, with 3 more guys tied. While everyone is busy building their pipeline, this naivety seems to have lost on most. Should not be long before people catch up. Gotta improvise :p
+
 **18:34** -- The pipeline is ready, waiting for the similaritis to run. Banking on the fact that hashing the similarities of popular items will help me stay within the time limit. Seems like a long wait :/
 
 **18:00** -- Onto my second cappucino within an hour. The 2 mil rows are giving me the hots :p Decided to go ahead with filtering the not-so-frequent users, for the sake of time and complexity, compromising on training data. Still building the pipeline for test data iteration. Looks like a couple submits by end of the hackathon would be a good result! Shouldn't be demotivated. Cmon fight!
