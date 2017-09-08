@@ -11,6 +11,8 @@ Welcome to the Indiahacks Live Blog Version 2.0! This is the grand finale, fifte
 <!-- ![hall_1]({{site.baseurl}}/images/indiahacks_live_blog/hall_1.jpg) -->
 <!-- ![hall_2]({{site.baseurl}}/images/indiahacks_live_blog/hall_2.jpg) -->
 
+**21:53** -- Slipped to 6th. Have tried multiple approaches using view ratio, and considering multiple movies based on the share of their view ratios. Putting in my last ditch efforts now.
+
 **21:05** -- Introduced a language and genre combo, which worsened my score. Kinda weird, but makes sense. Also, submitted my similarities-based approach, gave me 0.12x on the lb. Have a couple more ideas on the "popular" approach, a couple more hours to go. Hanging on to the second position :)
 
 **20:16** -- Introduced language into the previous approach, my lb score jumped up to 0.2288. Currently second on the leaderboard, this is seriously hilarious!
