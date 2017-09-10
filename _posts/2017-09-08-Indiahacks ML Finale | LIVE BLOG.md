@@ -11,6 +11,8 @@ Welcome to the Indiahacks Live Blog Version 2.0! This is the grand finale, fifte
 <!-- ![hall_1]({{site.baseurl}}/images/indiahacks_live_blog/hall_1.jpg) -->
 <!-- ![hall_2]({{site.baseurl}}/images/indiahacks_live_blog/hall_2.jpg) -->
 
+**Setptember 9th, 11:02** -- So, i don't rank within the Top 10 on the final leaderboard. Slightly disheartened, but i should remember that i'm just a newbie in this game. A lot of my competitors were experienced data scientists and top kagglers. If nothing, i should be taking inspiration from the champs, there's a lot to learn, a lot to do! Adios :)
+
 **03:38** -- Yeah, calling it a night. Will update when the private leaderboard is released in the morning.
 
 **02:48** -- I'm trying incremental ideas, not helping a lot. Guess my position is stuck at 9th now. With my mind zoning off, settling the competition seems like the best option.
