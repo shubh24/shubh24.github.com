@@ -118,7 +118,7 @@ syntax-highlight: True
 events:
 
   - image: "/img/timeline/myntra.png"
-    date: "January 2017 - Today"
+    date: "July 2017 - Today"
     description: "Data Science at Myntra" 
 
   - image: "/img/timeline/belong.png"
@@ -207,4 +207,4 @@ sass:
 
 gems:
   - jekyll-paginate
-  - jemoji
+  # - jemoji
