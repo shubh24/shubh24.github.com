@@ -6,11 +6,13 @@ category: math
 tags: [ 'kaggle', 'data science', 'report' ]
 ---
 
-<!-- <pic, gif>-->
+![wtf_banner]({{site.baseurl}}/images/wtf_blog/header.png)
 
 This is a documentation of my take on the [WTF Competition](https://www.kaggle.com/c/web-traffic-time-series-forecasting/) on Kaggle, well its short for Web Traffic Forecasting! A month of erratic pipeline building, some frustrated weekends, 40 commits and 22 submissions later, i'm still not where i'd hoped for. Learnt quite a lot though, and this report is an attempt at organizing the learnings. 
 
 *That being said, a warning -- This blog is gonna be slightly technical :)*
+
+![you_ready]({{site.baseurl}}/images/quora/you_ready.gif)
 
 This is a live competition, hosted on Kaggle and posted by Google -- The web traffic on 145K Wikipedia page is to be predicted for the period of Sept to Nov 2017, which implies, the accuracy of our submissions will be calculated in real-time -- depending on how the future plays out! The training data consisted of day-by-day view counts on the wiki pages, for the past two years. 
 
@@ -28,6 +30,8 @@ Upon the advice of some top kagglers, i decided to take up the regression model 
 a traditional *page-date-features per row* dataframe. Run an xgb, and predict on a similarly melted test dataframe.
 
 **Feature Engineering**
+
+![stats]({{site.baseurl}}/images/wtf_blog/stats.gif)
 
 *Overall Mean/Median* -- A simple constant submission with the mean/median over the last 8 weeks turned out pretty tough to beat in Stage 1. Included them as features too. 
 
@@ -60,11 +64,15 @@ An alternative was to train an xgboost on every page separately, personalizing t
 
 *XGBoost is love, XGBoost is life!*
 
+![stats]({{site.baseurl}}/images/wtf_blog/high_five.gif)
+
 I went ahead with a vanilla xgb, yet again. For one, there was good feedback about xgboost working well in the discussion forumns. This was the first time i used a custom loss function([SMAPE](https://en.wikipedia.org/wiki/Symmetric_mean_absolute_percentage_error)) as a xgboost parameter(feval), was a debatable choice of a loss function - non-differentiable and unsymmetric!
 
 A major problem i faced was that of tree-based models not generalizing well to unknown ranges, struggled with xgboost's  constant predictions for a while before i added in more features! A fix to this problem is to consider the diff of target variable as the target variable, thus bounding the range. This required changing the features in a similar manner, i didn't go down this route.
 
 **Challenges & Mistakes**
+
+![screwup]({{site.baseurl}}/images/quora/screwup.gif)
 
  - XGBoost not generalizing well to unknown ranges, as specified before.
  - Since i was exploding the dataframe to long-formatting, the number of rows went upto 26 million, if i considered just the last six months data! This was one of the tradeoffs, giving up older data in lieu of RAM limitations.
@@ -83,5 +91,7 @@ My primary takeaways from this competition:
  - Dont be afraid of time-series problems. At the end of the day, its good ol' regression!
 
 Overall, it was a fun competition -- probably more frustrating than fun, now that i think of it! Learnt a lot, should serve me good practice, going into future competitions. 
+
+![addiction]({{site.baseurl}}/images/quora/addiction.gif)
 
 Onto the next one :)
