@@ -20,7 +20,7 @@
 				{% endif %}
 				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
 				<link>{{site.url}}{{site.baseurl}}{{post.url}}</link>
-				<guid isPermaLink="true">{{site.url}}{{site.baseurl}}{{post.url}}</guid>
+				<guid isPermaLink="true">https://shubh24.github.io{{site.baseurl}}{{post.url}}</guid>
 			</item>
 		{% endfor %}
 	</channel>
