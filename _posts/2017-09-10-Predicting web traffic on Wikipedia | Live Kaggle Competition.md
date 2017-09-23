@@ -76,7 +76,7 @@ A major problem i faced was that of tree-based models not generalizing well to u
 
  - XGBoost not generalizing well to unknown ranges, as specified before.
  - Since i was exploding the dataframe to long-formatting, the number of rows went upto 26 million, if i considered just the last six months data! This was one of the tradeoffs, giving up older data in lieu of RAM limitations.
- - As i mentioned earlier, calculating the rolling statistics for days up ahead in the test dataset isn't possible. I tried leaving them as NA, but this bloated the predictions a lot(since the model hadn't seen NA in training). Finally, i stuck with using the last available(by date) legitimate rolling statistic. 
+ - As i mentioned earlier, calculating the rolling statistics for days up ahead in the test dataset isn't possible. I tried leaving them as NA, but this bloated the predictions a lot(since the model hadn't seen NA in training). Finally, i stuck with forward-filling on the rolling statistic. 
  - Built a complex pipeline, debugging was a nightmare! i still can't figure out an easier methodology, tradeoffs :)
  - My noob mistake -- considering a shallow copy of a dataframe as a deep copy. Couldn't figure out this bug, for the life of me! 
 
