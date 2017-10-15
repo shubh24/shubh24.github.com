@@ -17,6 +17,7 @@ I'd like to document some learnings from the whole process, my first experience 
  - Document everything, it helps a great deal in diagnosis.  
 
 I'm slowly getting back to Kaggle -- Zillow was a failed start. Couldn't dedicate enough time to get anything substantial done. Currently getting started with a new competition -- [Predicting car insurance claims in Potro Seguro](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction). Reading up on kernels and discussions, should get underway this week!  
+
 I sat through three long reading sessions to complete ["Rafa -- My Story"](https://www.amazon.in/Rafa-My-Story-Rafael-Nadal/dp/0751547735), one that had been on my desk for a long time! Even made my weekly vlog on the book, a first amongst my book review vlogs. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iBHbq7jtwV4" frameborder="0" allowfullscreen></iframe>
@@ -25,6 +26,6 @@ I'm gonna try to keep my reading habit rolling, "Flowers for Algernon" next on m
 
 I put in all five days at the gym -- slowly getting into the flow, soon i'll be customizing my workouts to get into a better runners body. Currently focussed on building some muscle to get to a decent level. Went on a Sunday run, my legs are still not perfect -- i'll be going on couple more more runs this week, have to decide whether i am fit to run the Kaveri Trail Marathon in November. Fingers crossed :)
 
-I'm taking the better part of the week off from work, Bombay for Diwali! Excited to get back home, even more excited to get some progress on my ToDos!
+I'm taking the better part of the week off from work, Bombay for Diwali! Excited to get back home, even more excited to get some work done on my ToDos!
 
 That's it folks! Later.
