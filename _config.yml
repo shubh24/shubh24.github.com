@@ -32,7 +32,7 @@ lang: "en"
 author: "Shubhankar Srivastava"
 title: "Periodical Musings"
 description: "Shubhankar's blog!"
-keywords: "shubhankar, personal, blog, travel, weekly"
+keywords: "shubhankar, personal, blog, travel, weekly, productivity, data science, vlog, fitness, youtube, machine learning, myntra, ai"
 favicon: "/img/favicon.ico"
 
 ################
@@ -62,6 +62,9 @@ lines: # You can add HTML Tags in the Text
   - text: "Success = f(work)"
   - text: "Everything is figure-out-able"
   - text: "24*7*365. Always. Forever."
+  - text: "Hard Work Vs Regret"
+  - text: "How you do anything is how you do everything."
+  - text: "What seems hard now, will one day be your warmup."
 
 me-img: "/img/prof_pic.jpg"
 
@@ -190,8 +193,11 @@ social:
 pages_list:
   About: 'about'
   Blog: 'latest-post'
+  Vlog: 'vlog'
+  Runs: 'runs'
   Timeline: 'timeline'
-  Hire Me: 'hire_me'
+  Hire Me: 'hire_me'  
+
 # Exclusion list from the generated _site
 
 exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts"]
