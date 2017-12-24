@@ -26,6 +26,6 @@ On a roll on run/workout goals, hitting all of them consistently! Went for a cou
 
 I attended an awesome skateboarding competition in Play Arena, Jugaad 2017! Spent 6-7 hours just watching the pros go at their tricks, fall and then stand back up, cheering each other, it was a sporting treat. I was left super-inspired, there were 12 year old boys kicking ass on the boards, giving me goosebumps as they landed kickflips and nollies so nonchalantly. There was a different sense of camraderie within the competitors, something i haven't seen in other sports -- its special to see your opponent applauding you on your trick just before going in on his, rare to see in tennis too. I could see there was an insane amount of practice the pros had put in, and there was always that desire to improve, to hit that trick. Reminds me of the platitude Casey always shares, 
 	
-	*"With every success, comes a bigger and more ambitious goal. You never arrive."*
+*"With every success, comes a bigger and more ambitious goal. You never arrive."*
 
 There is no finish line.
