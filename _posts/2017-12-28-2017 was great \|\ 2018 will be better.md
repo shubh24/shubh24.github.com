@@ -12,7 +12,7 @@ tags: [ 'report', 'pilani', 'mumbai', 'bangalore' ]
 
 And just so you know, what's gonna be bettering better? 2018.
 
-![wil]({{site.baseurl}}/images/IMG_20171105_200345657.jpg)
+![wil]({{site.baseurl}}/images/IMG_20171126_122138784_HDR.jpg)
 
 By the way if you think this is a narcissistic blog, i just wanna ensure -- it is ;)
 
