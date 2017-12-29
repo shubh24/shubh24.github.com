@@ -12,7 +12,7 @@ tags: [ 'report', 'pilani', 'mumbai', 'bangalore' ]
 
 And just so you know, what's gonna be bettering better? 2018.
 
-![wil]({{site.baseurl}}/images/IMG_20171126_122138784_HDR.jpg)
+![wil]({{site.baseurl}}/images/IMG_20170604_161224954_HDR.jpg)
 
 By the way if you think this is a narcissistic blog, i just wanna ensure -- it is ;)
 
@@ -22,7 +22,7 @@ i'd set out with a bunch of 2017 goals, lets do a comprehensive review:
  - **Read more, consume less**: Well, i'm consuming less -- more like zero. I have eliminated all [news](https://jamesaltucher.com/2012/07/go-on-a-news-diet-starting-today/), and all stupid social media from my life -- whats all this frickin hype with Virushka?! I'm very conscious about what content i consume, its mostly Casey Neistat, Gary Vee, Peter McKinnon and Mumbiker Nikhil. I'm still trying to build a regular reading habit -- i have put out a couple book review vlogs too. Still not quite there, it needs to become a subconscious decision.
  - **Bigger & better blogs**: This hasn't been one of my priorities lately -- i'm still regular with my weekly blogs, but the bigger projects are amiss. Need to get back on it!
 
-With that out of the way, lets get into a **52-week Mega-Massive-Comprehen-fuckin-sive Report**! 
+With that out of the way, lets get into a **52-week Mega-Massive-Compre-fuckin-hensive Report**! 
 
 i went for a [nice little trip to Malvan](https://www.youtube.com/watch?v=aBqzNjdplgQ), a small fishing town near Bombay. We scuba dived! That was fun. Got kicked out of a bus in the middle of the night for sleeping in an unreserved seat. That wasn't fun.
 
@@ -46,7 +46,7 @@ i watched the Indian Tennis Team kick Uzbekistan's ass at Davis Cup, Bangalore. 
 
 i went on a 10-day trip to Bhutan, one of the more happier places i've been to! Wrote a [blog](https://shubh24.github.io/shubh24.github.com/travel/2017/06/27/Bhutan-An-overload-of-culture-shocks!.html), made a [vlog](https://youtu.be/SXZzhEcZJY8)! 
 
-i joined Myntra Data Sciences. my first job. i hadn't been this psyched in a long long time!
+i joined Myntra Data Sciences. my first job. Now i know the difference between an off-shoulder and a cold-shoulder dress!
 
 i met [Shreya](https://www.facebook.com/shreya.singh.9421450), she's on my favorite people list now! Thanks for everything, blue whale ;)
 
@@ -94,6 +94,7 @@ With two days to go before 2k18, i'm heading for a solo trek to Kumar Parvat! Wi
  - Career-wise, i have a major slightly-scary goal. Wanna keep that to myself, for now. That, or YC 2019.
  - The Top 10% on Kaggle has been close, yet elusive. Get there!
  - I wanna be in the physical conditions to run a full-marathon by year-end. Aiming for Standard Chartered 2019.
+ - I'm registering for AITA(All India Tennis Assoc), will work towards getting a decent ranking in the Nationals.
  - I stand at 62 subscribers on my Youtube. Aiming for a 1000 by year end. Moonshot. But moonshots exist for a reason.
  - Read more. Put in deep work. Eliminate distractions. Eliminate social media. 
  - I hope i'm in an emotionally mature position by next year. I struggle with being fulfilled or content, you might have guessed that by now :p
