@@ -8,7 +8,7 @@ tags: [ 'fitness', 'report', 'run' ]
 
 *If you're losing faith in human nature, go out and watch a marathon -- Katherine Switzer*
 
-I've run four half-marathons so far, and many more in the pipeline! Aiming 2019 for the Full Marathon!
+I've run five half-marathons so far, and many more in the pipeline! Aiming 2019 for the Full Marathon!
 
 **Hampi Go-Heritage Run, January '18** -- 21.1 KM in 01:56:15
 ![hampi]({{site.baseurl}}/images/marathons/IMG_20180130_100423231.jpg)
