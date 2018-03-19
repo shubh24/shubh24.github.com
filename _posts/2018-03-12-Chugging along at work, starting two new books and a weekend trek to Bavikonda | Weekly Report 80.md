@@ -6,7 +6,7 @@ category: report
 tags: [ 'myntra', 'data science', 'fitness', 'vlog', 'travel', 'trek' ]
 ---
 
-My weekly report from the 26th of February to the 4th of March -- a productive workweek and a super-fun weekend outing! Went into a mini-breakdown midway into the week, probably a result of bad mood and my constant 'GO' mode. Sometimes, it is necessary to zoom out a little, and appreciate your long-term journey.
+My weekly report from the 5th of March to the 11th of March -- a productive workweek and a super-fun weekend outing! Went into a mini-breakdown midway into the week, probably a result of bad mood and my constant 'GO' mode. Sometimes, it is necessary to zoom out a little, and appreciate your long-term journey.
 
 At work, we've been testing out multiple ideas and evaluating/building upon A/B tests results. We had a mini-victory with a positive conversion A/B test, showing us a directional win, at least! Still not there, a lot more parameters in the pipeline to play around with. I'll be focussing on getting our codebase refactored and clean over this week for faster iterations and A/B tests in the near future.
 
