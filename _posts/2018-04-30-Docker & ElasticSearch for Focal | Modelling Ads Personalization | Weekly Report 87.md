@@ -10,7 +10,7 @@ Week 87. 22nd April to 29th April 2018. Productive. Foundational. Introspective.
 
 Engineering took the major part of this week's work on Focal. Gyani set up a Docker instance to make my codebase replicatable on any dev's system. Learnt docker, made a couple PRs. Also learnt ElasticSearch, it would be the Search backend to match user queries with files. I was trying to get a plugin working on ES that would effectively search for similar document embeddings(obtained from Word2Vec) via cosine similarity. Not yet successful, more exploration to be done. 
 
-We went a little specitcal on our idea and the vision itself. Whether serving an API would be a better idea. Who would download 3 GBs worth of application data for a desktop app. I slept over them and convinced myself that these are just engineering constraints. The vision is still alive and kicking in my head, building a truly intelligent file system that will give me what i need when i need it. Now, i have to build the least sucky version of that.
+We went a little sceptical on our idea and the vision itself. Whether serving an API would be a better idea. Who would download 3 GBs worth of application data for a desktop app. I slept over them and convinced myself that these are just engineering constraints. The vision is still alive and kicking in my head, building a truly intelligent file system that will give me what i need when i need it. Now, i have to build the least sucky version of that.
 
 At work, i've made some initial progress on the problem of Ads Personalization. Data extraction is a nightmare, i've seen it in every single project. It took me a week to get the data in a clean format which i could feed to the model, urgh. I need to get more productive at work, gotta hit the gas.
 
