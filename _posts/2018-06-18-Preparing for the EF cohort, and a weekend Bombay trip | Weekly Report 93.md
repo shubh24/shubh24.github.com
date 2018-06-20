@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Preparing for the EF cohort, and a weekend Bombay trip | Weekly Report 93
+title: Preparing for the EF cohort, and a weekend Bombay trip | Weekly Report 94
 category: report
 tags: [ 'ef', 'data science', 'bombay', 'fitness' ]
 ---
