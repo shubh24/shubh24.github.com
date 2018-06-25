@@ -8,7 +8,10 @@ tags: [ 'fitness', 'report', 'run' ]
 
 *If you're losing faith in human nature, go out and watch a marathon -- Katherine Switzer*
 
-I've run six half-marathons so far, and many more in the pipeline! Aiming 2019 for the Full Marathon!
+I've run seven half-marathons so far, and many more in the pipeline! Aiming 2019 for the Full Marathon!
+
+**Hyderabad Go-Heritage Run, June '18** -- 21 KM in 01:51:13
+![hyderabad]({{site.baseurl}}/images/marathons/IMG_20180625_122350226.jpg)
 
 **Auroville Marathon, February '18** -- 21 KM in 01:51:48
 ![auroville 2.0]({{site.baseurl}}/images/marathons/IMG_20180212_091001851.jpg)

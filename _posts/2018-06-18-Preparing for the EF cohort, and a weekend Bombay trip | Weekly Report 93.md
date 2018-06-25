@@ -22,6 +22,6 @@ The tickets to Sri Lanka are confirmed, its happening! 20th - 28th July, daily v
 
 This week's vlog is a little delayed, I wanted to skip it but went through. Will be up soon.
 
-The workouts and runs went as-per-plan, except for a missed gym session because of travel. The diet took a decent hit because of variability in my meals in Bombay, not happy about that. I'll have to figure out a workable diet schedule for my stay in Singapore. Super excited to run my sixth half-marathon next weekend in Hyd!
+The workouts and runs went as-per-plan, except for a missed gym session because of travel. The diet took a decent hit because of variability in my meals in Bombay, not happy about that. I'll have to figure out a workable diet schedule for my stay in Singapore. Super excited to run my seventh half-marathon next weekend in Hyd!
 
 Yeah, later.
