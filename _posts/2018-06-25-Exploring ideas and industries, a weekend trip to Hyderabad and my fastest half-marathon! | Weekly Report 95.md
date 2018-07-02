@@ -16,7 +16,7 @@ Last week's vlog was delayed, but here it is nonetheless!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9PhDN5zuprw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-I made a three-day trip to Hyderabad, a happy trip, a fulfilling one. Stayed over at Sodhi's place, met up with a couple college friends, and rode a hoverboard for the first time in my life! Meeting 
+I made a three-day trip to Hyderabad, a happy trip, a fulfilling one. Stayed over at Sodhi's place, met up with a couple college friends, and rode a hoverboard for the first time in my life! 
 
 Also, ran my seventh and fastest half-marathon to-date. 1 hour, 51 minutes, 13 seconds. I'm addicted to running, addicted to the things that matter.
   
