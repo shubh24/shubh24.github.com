@@ -120,8 +120,16 @@ syntax-highlight: True
 
 events:
 
+  - image: "/img/timeline/radicali.jpg"
+    date: "Nov 2018 - Present"
+    description: "Co-Founder & CTO at Radicali" 
+
+  - image: "/img/timeline/ef.png"
+    date: "July 2018 - Nov 2018"
+    description: "Founder-in-residence at Entrepreneur First" 
+
   - image: "/img/timeline/myntra.png"
-    date: "July 2017 - Today"
+    date: "July 2017 - July 2018"
     description: "Data Science at Myntra" 
 
   - image: "/img/timeline/belong.png"
@@ -194,9 +202,9 @@ pages_list:
   About: 'about'
   Blog: 'latest-post'
   Vlog: 'vlog'
+  Podcast: 'podcast'  
   Runs: 'runs'
   Timeline: 'timeline'
-  Hire Me: 'hire_me'  
 
 # Exclusion list from the generated _site
 
