@@ -20,7 +20,7 @@ The next day, we got back in the grind again -- switching into fundraising mode,
 
 I've gotten back into product dev, and we're now getting the product into a usable form for our paid pilots commencing soon! The deadlines stress me out from time to time, bugs give me the chills in my sleep! But i've realized over & over again that stressing does no good. Just gotta put the head down, and execute.
 
-Over the last couple weeks, we put out two guest episodes of the Early Twenties podcast, one centered around Prioritization with Devanshi, and the other one was a little more free-handed & conversational. Go give them a listen!
+Over the last couple weeks, we put out two guest episodes of the Early Twenties podcast, one centered around Prioritization with Devanshi, and the other one was a little more free-handed & conversational with Siddhant. I even bought a new microphone for our podcast, go give them a listen!
 
 <iframe src="https://anchor.fm/earlytwenties/embed/episodes/Ep-5-Discussing-startups--life-and-Hitler-with-Devanshi-Kotak-e30679" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
