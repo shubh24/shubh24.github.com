@@ -24,6 +24,6 @@ It wasn't work all the week. We did a small get-together in my building over the
 
 Got all my workouts in, proud! It's becoming increasingly tough to accommodate time for these workout schedules in the evening, but it's something non-excusable in my routine. I go on a crazy guilt trip when i miss a workout, that's a great sign. Loving the process.
 
-Also, Sodhi started his weekly blog reports this year. Impressed by the quality of these reports, something i should think about too! Check out his latest [blog](https://sodhi.xyz/2019-02-04-weekly-report-6/), it's insane!
+Also, Sodhi started his weekly blog reports this year. Impressed by the quality of these reports, something i should think about too. Check out his latest [blog](https://sodhi.xyz/2019-02-04-weekly-report-6/), it's insane!
 
 Okay folks, until next time!
