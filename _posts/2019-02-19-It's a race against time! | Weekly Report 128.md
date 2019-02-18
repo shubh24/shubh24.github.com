@@ -14,9 +14,9 @@ I interviewed and hired a front-end intern late last week, excited to ramp up th
 
 It's a race against time. Or, as Caterina Fake says, it's a race against the bank balance. 
 
-I watched the much awaited "Gully Boy" in the theatres. i might have been more excited than 5-year old kids jumping in my seats singing along with the raps. So much fun, felt kinda weird to switch off from work for 3 hours. i'm not used to this kind of off-time!
+I watched the much awaited "Gully Boy" in the theatres. i might have been more excited than 5-year old kids, as i jumped in my seat singing along with the raps. So much fun, felt kinda weird to switch off from work for 3 hours. i'm not used to this kind of off-time!
 
-Over the weekend, i pulled out my old journals from 2016 and 2017. Was going through my college day entries, felt quite nostalgic. I wouldn't be scared to say that journalling might be the best habit i have cultivated over the past 3 years. That being said, i only put in one journal entry last week. i know, hypocrisy is my strong suit.
+Over the weekend, i pulled out my old journals from 2016 and 2017. Was going through my college day entries, felt quite nostalgic. It wouldn't be wrong to say that journalling might be the best habit i have cultivated over the past 3 years. That being said, i only put in one journal entry last week. i know, hypocrisy is my strong suit.
 
 Over the weekend, we recorded two episodes for the [@earlytwentiespodcast](https://www.instagram.com/earlytwentiespodcast/)! We have released one where we talk about our work lives, and how we navigated the shift from college to corporate. Quite an interesting episode, go listen :)
 
