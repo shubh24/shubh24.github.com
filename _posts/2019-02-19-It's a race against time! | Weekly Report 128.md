@@ -22,7 +22,7 @@ Over the weekend, we recorded two episodes for the [@earlytwentiespodcast](https
 
 <iframe src="https://anchor.fm/earlytwenties/embed/episodes/Ep-9-One-third-of-our-lives--Jobs-e37o0d" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-My sleep schedule hasn't been great off-late. i am writing this blog at 3:37 AM on a Tuesday and have a 11AM meeting to attend. With the constant workload, it has been difficult to reset and restart. Book reading has also taken a hit, i might have put in only one morning where i made progress on "The Art of Thinking Clearly". 
+My sleep schedule hasn't been great off-late. i am writing this blog at 3:37 AM on a Tuesday and have an 11AM meeting to attend. With the constant workload, it has been difficult to reset and restart. Book reading has also taken a hit, i might have put in only one morning where i made progress on "The Art of Thinking Clearly". 
 
 A positive: all runs and workouts accomplished. Even after taking an unintended rest day because of Gully Boy, i made it up by giving off my weekend rest day. The diet is not great, so workouts might not be reaching their full potential. It all comes down to building a good sleep routine, which informs my diet and workout schedules. 
 
