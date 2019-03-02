@@ -10,6 +10,9 @@ tags: [ 'fitness', 'report', 'run' ]
 
 I've run seven half-marathons so far, and many more in the pipeline! Aiming 2019 for the Full Marathon!
 
+**Singapore Marina Run, Feb '19** -- 30 KM in 02:51:16
+![hyderabad]({{site.baseurl}}/images/marathons/IMG_20190227_023521.jpg)
+
 **Hyderabad Go-Heritage Run, June '18** -- 21 KM in 01:51:13
 ![hyderabad]({{site.baseurl}}/images/marathons/IMG_20180625_122350226.jpg)
 
