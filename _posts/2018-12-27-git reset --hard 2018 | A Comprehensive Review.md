@@ -127,7 +127,7 @@ For all the science i believe in, I also believe in visualizations. And affirmat
 
 `28th December` i am on internet detox for a day. the addiction is real.
 
-With no real segway here, i'm gonna transition into my personal goals for 2019:
+With no real segue here, i'm gonna transition into my personal goals for 2019:
 
  - **Radicali Goals** : The great thing about working for yourself is that your ["Why"](https://www.youtube.com/watch?v=qp0HIF3SfI4) is aligned to your company's "Why". 
  - **5AM Mornings** : I will make a 180-degree switch to my daily routine, starting the day at 5AM with a run/workout.
