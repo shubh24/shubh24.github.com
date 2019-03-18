@@ -24,6 +24,6 @@ Met a bunch of BITSian friends in Holland Village on the Friday night -- feels g
 
 Touched my workout goals this week -- long awaited! 3 runs, 3 workouts. A quick update -- put in 3 meditation days and 1 journal day over the week. Discipline on this front circles back to discipline in sleep routine. Discipline equals freedom. Something i really need to internalize in the remaining months of 2019.
 
-i was listening to a Tim's podcast with Jim Collins, and realized that i should be tracking my hours in the day much more seriously. i should be tracking my sleep in a more organized way. Will build out a plan on this this week. i shouldn't have typed this out here -- actions over intentions.
+i was listening to Tim's podcast with Jim Collins, and realized that i should be tracking my hours in the day much more seriously. i should be tracking my sleep in a more organized way. Will build out a plan on this this week. i shouldn't have typed this out here -- actions over intentions.
 
 Anyways, keep hammering. See you next week!
