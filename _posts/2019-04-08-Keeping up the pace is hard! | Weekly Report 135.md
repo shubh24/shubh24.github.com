@@ -14,7 +14,7 @@ I tried setting up a serverless service for a real-time application, and making 
 
 We restarted our intern drive again, to bolster our development efforts on a bunch of new ideas -- slowly starting to think about full-time hiring too. Read in a blog that there will always be bugs to fix and fires to put out, don't make hiring your temporary fix -- especially in the early stages that we are in. 
 
-As i had mentioned in the previous blog, i have started a time-tracking habit to log every activity of mine throughout the day. I use an app called [TickTock]() for this, and it has been weirdly fun so far! The core objective of this exercise is to collect enough data on my time-spending habits to run a Machine Learning model and find what patterns make me productive. Not normal, i know!
+As i had mentioned in the previous blog, i have started a time-tracking habit to log every activity of mine throughout the day. I use an app called [TickTok](https://play.google.com/store/apps/details?id=fi.finlabs.timetracker) for this, and it has been weirdly fun so far! The core objective of this exercise is to collect enough data on my time-spending habits to run a Machine Learning model and find what patterns make me productive. Not normal, i know!
 
 Over the weekend, we recorded a podcast with Nirant Kasliwal, i spent better parts of my sleeping quota editing this one, and put it out on Sunday. Suno suno!
 
