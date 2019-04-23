@@ -22,6 +22,6 @@ Over the weekend, we released a 'guestless' episode of the Early Twenties Podcas
 
 <iframe src="https://anchor.fm/earlytwenties/embed/episodes/Is-Work-Life-Balance-a-myth-e3pv0v" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-On the fitness front, I put in three runs and two workouts -- had to skip 'Biceps Day' because of a slight niggle in my ankle. Rested it, and run a five miler over the weekend -- i was so happy and nostalgic running along the so-familiar roads and grounds i used to play cricket and football as a teenager. Emotions are quite an alien feeling to me.
+On the fitness front, I put in three runs and two workouts -- had to skip 'Biceps Day' because of a slight niggle in my ankle. Rested it, and ran a five miler over the weekend -- i was so happy and nostalgic running along the familiar grounds where i used to play cricket and football as a teenager. Emotions are quite an alien feeling to me.
 
 Okay, cya next week. Keep hammerin'
