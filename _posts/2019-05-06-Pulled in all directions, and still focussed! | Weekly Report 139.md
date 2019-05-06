@@ -8,7 +8,7 @@ tags: [ 'radicali', 'startup', 'hustle', 'hiring', 'singapore', 'fitness' ]
 
 One Three Nine. Welcome!
 
-It is funny how you can be pulled into four directions, and still maintain sanity working on what is supposed to be worked on. Sometimes you get that little question in your head, whether this is worth it and you could have it so much easier. i read somewhere last week, that the grass is green on both sides -- focus on your green. Just another way of telling you to be mindful on what you're doing!
+It is funny how you can be pulled into four different directions, and still maintain sanity working on what is supposed to be worked on. Sometimes you get that little question in your head, whether this is worth it and you could have it so much easier. i read somewhere last week, that the grass is green on both sides -- focus on your green. Just another way of telling you to be mindful of what you're doing!
 
 On the development front, we pushed forward on the existing backend automation efforts, while also making incremental changes to our frontend. We hired two freelancers from Upwork, with an effort to redesign our landing page & rewriting our frontend codebase to ReactJS -- with a much better look & feel! 
 
