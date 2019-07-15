@@ -14,6 +14,6 @@ The last couple weeks have been fairly positive in terms of our hiring efforts, 
 
 In the midst of all the action, we also put out our new website live [now](www.meetmica.io)!
 
-We crossed June recently, so a few statistics: i put in x meditation days & y journal days, going strong! Missed two workouts in the whole month, but pretty happy with the recovery from runners knee. Last week has been good on the fitness front as well, i even ran an afternoon 7K with my brand new hydration vest & compression sleeves! i become an excited young boy with new gear :)
+We crossed June recently, so a few statistics: i put in 20 meditation days & 17 journal days, going strong! Missed two workouts in the whole month, but pretty happy with the recovery from runners knee. Last week has been good on the fitness front as well, i even ran an afternoon 7K with my brand new hydration vest & compression sleeves! i become an excited young boy with new gear :)
 
 Recently, the weekends have been fairly slow & easy-going. My body has been asking me to refrain from screens, and its good to do that once in a while. Thanks to no-screen, i finished 'Good to Great' by Jim Collins this weekend! And we also recorded the first episode of Season 2 for the Early Twenties Podcast. Stay tuned :)
