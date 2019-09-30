@@ -19,4 +19,3 @@ September is coming to an end - it was quite an eventful month overall, and help
 This weekend was a rather easy one, i took Saturday off to do some shopping/chores. Went out on the Sunday evening run, and worked for a while in the second half. Also caught up on a couple Tim Ferris episodes, and one with Joe Rogan - really getting back into the podcast game since the last week! All in all, well rested - all set for the week!
 
 Keep hammerin'
-easy weekend, meditations, 3 podcasts
