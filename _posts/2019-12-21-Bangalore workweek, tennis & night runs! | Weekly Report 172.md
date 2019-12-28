@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Bangalore workwee, tennis & night runs! | Weekly Report 172
+title: Bangalore workweek, tennis & night runs! | Weekly Report 172
 category: report
 tags: [ 'radicali', 'startup', 'bangalore', 'fitness', 'travel' ]
 ---
