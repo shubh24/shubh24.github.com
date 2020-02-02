@@ -19,5 +19,3 @@ On the fitness front, i put in 2 runs, 2 workouts and 1 tennis sesh - same outpu
 February goals are to record 1 podcast, finish the book 'Meditations', learn 1 magic card trick(have been wanting to learn this for so long now!), and get into a constant 12AM sleep schedule. Saw Rich Roll's Instagram post that said, "Less screens. More dreams". So true. Have been planning to leave my computer at work and completely detach from screens in the night, let's see how it plays out! 
 
 Keep hamemrin'
-
-less screens, more dreams
