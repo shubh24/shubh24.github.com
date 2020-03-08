@@ -20,6 +20,6 @@ We released another episode of the Early Twenties podcast that we'd recorded las
 
 On the fitness front, this week was quite mediocre - put in 2 short runs and one workout. My poor time management is leading to late nights at the office, and thus missed workouts. i hit the gym after around 10 days, and could feel the loss of muscle(have lost a kilogram), i constantly need to be on the grind. 
 
-This weekend was another well-spent one, where i ticked off a bunch of to-do on Sunday, and took care of other things on Saturday. Met an old friend after about a year, and also did brunch with our SG team - good weekend.
+This weekend was another well-spent one, where i ticked off a bunch of to-dos on Sunday, and took care of other things on Saturday. Met an old friend after about a year, and also did brunch with our SG team - good weekend.
 
 Keep hammerin'
