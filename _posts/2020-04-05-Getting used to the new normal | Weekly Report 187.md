@@ -6,10 +6,7 @@ category: report
 tags: [ 'radicali', 'startup', 'singapore', 'fitness' ]
 ---
 
-Hard times create strong men
-Strong men create good times
-Good times create weak men
-Weak men create hard times
+Hard times create strong men. Strong men create good times. Good times create weak men. Weak men create hard times.
 
 Had a standard workweek spent planning out the implementation for a few features. Wasn't stressed too hard and for some reason, that feels like sub-optimal. Is it good for my growth to constantly stress and push to the edge? 
 
