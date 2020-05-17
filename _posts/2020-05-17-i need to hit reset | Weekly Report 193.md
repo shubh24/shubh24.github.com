@@ -12,11 +12,9 @@ One of the rare times i've used a clickbait for this blog - but it's kinda true.
 
 At work, i put in effort on certain data issues and worked out the implementation/architecture of a few backend tools. There were lesser number of client-facing meetings, so could focus wholly on development. i realized that my fingers now subconsciously type `meet.google` on the browser tab instead of `youtube` - which means wfh has officially become a habit for the body. We have started looking at our product critically now, which is raising more tech debt issues by the day - and it's an engineering problem that i need to work on.
 
-i'm currently listening to a fresh JRE episode with Rhonda Pattrick where they talk about the importance of Vitamin-D, especially as an immunity boost against coronavirus. To solve for the problem of the messed up sleep routine, i need to sweat it out in the sun. 
+i'm currently listening to a fresh JRE episode with Rhonda Patrick where they talk about the importance of Vitamin-D, especially as an immunity boost against coronavirus. To solve for the problem of the messed up sleep routine, i need to sweat it out in the sun. 
 
 On the fitness front, i missed my Wednesday speed workout and one workout session. Put in one recovery run, two core workouts and one foam-roller session - planning for a long run tomorrow(Sunday) evening. The late night work sessions eat into my workout schedule and make me feel like a sloth till the next morning.
-
-sleep schedule. thoughts going negative. need to hit reset, and maintain a positive outlook. meditation/headspace
 
 Cooking has been going as planned, however i've stopped growing in skillset - i need to be pushing myself to learn new things and go deeper. Otherwise, this can become a chore and something i don't look forward to on a daily basis. i was looking at my personal expenses over the last few months, and the lockdown period has been really healthy on the account statement - makes you question all the purchases you make in everyday life.
 
