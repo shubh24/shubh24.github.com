@@ -30,10 +30,3 @@ On the fitness front, i haven't been going after the marathon prep goals that i 
 Talking about balance, the weekends have been a lot of fun recently. With a bunch of friends, i cycled around ECP and jumped into the water on a beautiful moonlit night. Visited the top of Marina Bay with my date, and dropped her off to the airport(and saw Jewel Changi!) earlier today as she left for Bombay. Visited Arab Street earlier in the week, felt a little weird as we move towards a long-distance affair for the near term future. It's probably a good test to see how we take this forward, and also a reminder for me on how to stay happy & peaceful with myself. Not too long ago, i was on the nofap journey - it's funny how life changes. i escape my emotions with immersing myself with work, convincing myself it's productive - that's what Mike Posner also said.
 
 Life's beautiful. Keep hammerin' 
-
-
-
-
-this wednesday - arab street
-this weekend - MBS, jewel changi, clarke quay dinner ramen on friday
-last weekend - ecp cycle and swim, gopro footage, anush(mini fight last to last friday after party at cityscape)
