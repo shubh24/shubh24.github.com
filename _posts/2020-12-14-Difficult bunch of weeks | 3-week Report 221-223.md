@@ -22,7 +22,7 @@ On the fitness front, i've been consistent and the workload has not affected the
 
 i'm currently on Day 38 of NoFap - on track for a century. 
 
-Went out for a couple dinners last week to meet a bunch of friends, good conversations to take my mind off work for sometime. Also visited uncle's place to get some good Indian food a week back. My family had visited our hometown for a wedding in the family, giving me an itsy-bitsy amount of fomo - Singapore seems to be getting the covid vaccine soon, so travelling might not be a distant dream anymore. i've been in a long-distance relationship for over a month now, and things seem to be working out for now. It's not easy, but if it were wouldn't everyone do it.
+Went out for a couple dinners last week to meet a bunch of friends, good conversations to take my mind off work for sometime. Also visited uncle's place to get some good Indian food a week back. My family had visited our hometown for a wedding, giving me an itsy-bitsy amount of fomo - Singapore seems to be getting the covid vaccine soon, so travelling might not be a distant dream anymore. i've been in a long-distance relationship for over a month now, and things seem to be working out for now. It's not easy, but if it were wouldn't everyone do it.
 
 Keep hammerin'
 
