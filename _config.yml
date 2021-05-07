@@ -66,7 +66,7 @@ lines: # You can add HTML Tags in the Text
   - text: "How you do anything is how you do everything."
   - text: "What seems hard now, will one day be your warmup."
 
-me-img: "/img/shubhankar.png"
+me-img: "/img/shubhankar.jpeg"
 
 ##############################
 # Color the browser elements #
@@ -82,12 +82,12 @@ web-app-mode: True
 
 # Icons for Web App mode
 
-icon-36p: "/img/web-app/icon-36p.png"
-icon-48p: "/img/web-app/icon-48p.png"
-icon-72p: "/img/web-app/icon-72p.png"
-icon-96p: "/img/web-app/icon-96p.png"
-icon-144p: "/img/web-app/icon-144p.png"
-icon-192p: "/img/web-app/icon-192p.png"
+icon-36p: "/img/web-app/icon-36.ico"
+icon-48p: "/img/web-app/icon-48.ico"
+icon-72p: "/img/web-app/icon-72.ico"
+icon-96p: "/img/web-app/icon-96.ico"
+icon-144p: "/img/web-app/icon-144.ico"
+icon-192p: "/img/web-app/icon-192.ico"
 
 ########
 # Blog #
@@ -167,7 +167,7 @@ email: "shubhankar24@gmail.com"
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "Shubhankar is an awesome person. He's Co-Founder & CTO of Radicali, building the first digital assistant for compliance. In his spare time, he likes to go out on runs!"
-author_blurb_image: "/img/shubhankar.png"
+author_blurb_image: "/img/shubhankar.jpeg"
 
 ##################
 # Social Buttons #
