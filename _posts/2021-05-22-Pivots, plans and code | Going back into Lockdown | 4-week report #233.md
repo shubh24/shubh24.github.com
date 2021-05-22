@@ -4,6 +4,7 @@ section-type: post
 title: Pivots, plans and code | Gong back into Lockdown | 4-week report #233
 category: report
 tags: [ 'radicali', 'startup', 'singapore', 'fitness' ]
+--- 
 
 Welcome to #233, it's been a while! We're coming on the other side of May, and this year is running out even faster than the last one. Time goes fast when you want it to go slow, and then time goes slow when you want it to go fast.
 
