@@ -1,8 +1,8 @@
 ---
 layout: post
 section-type: post
-title: Title
-category: Maximizing each day, getting a new macbook and watching Djokovic win his 20th Slam | Report #237
+title: Maximizing each day, getting a new macbook and watching Djokovic win his 20th Slam | Report #237
+category: report
 tags: [ 'radicali', 'startup', 'singapore', 'fitness', 'social' ]
 ---
 
