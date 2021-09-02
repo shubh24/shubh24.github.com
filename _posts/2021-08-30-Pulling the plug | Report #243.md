@@ -8,7 +8,7 @@ tags: [ 'radicali', 'startup', 'singapore', 'fitness', 'travel' ]
 
 Welcome to #243
 
-It has been one of those weeks that could change a lot for me. After a fair amount of deliberation, i took a decision to move on from Radicali. i'll be writing a separate blog about the decision and learnings, but the short summary is that we couldn't hit enough traction to convince investors, and i started having doubts about our ability to hit product-market fit going into the future. We communicated the same with the team last week, and are now exploring options to bring down the curtains on the product meaningfully.
+It has been one of those weeks that could change a lot for me. After a fair amount of deliberation, i took a decision to stop active development on Radicali. i'll be writing a separate blog about the decision and learnings, but the short summary is that we couldn't hit enough traction to convince investors, and i started having doubts about our ability to hit product-market fit going into the future. We communicated the same with the team last week, and are now exploring options to make the most with our current IP/product.
 
 One of my goals now is to lead a happy and peaceful life. In the last couple years, i grinded hard but lived a happy, but anxious life.
 
