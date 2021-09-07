@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Pulling the plug | Report #243
+title: Pulling the plug | Report 243
 category: report
 tags: [ 'radicali', 'startup', 'singapore', 'fitness', 'travel' ]
 ---

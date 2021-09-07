@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Uncertainty is exciting! | Report #244
+title: Uncertainty is exciting! | Report 244
 category: report
 tags: [ 'singapore', 'startup', 'fitness', 'ideas' ]
 ---
