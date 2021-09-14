@@ -1,4 +1,4 @@
-		---
+---
 layout: post
 section-type: post
 title: Ideas are aplenty | Report 245
