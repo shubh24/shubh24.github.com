@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Backpropogation: 3 years in Singapore
+title: Backpropogation - 3 years in Singapore
 category: report
 tags: [ 'singapore', 'startup', 'journal', 'learnings' ]
 ---
