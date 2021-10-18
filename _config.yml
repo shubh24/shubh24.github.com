@@ -120,8 +120,12 @@ syntax-highlight: True
 
 events:
 
+  - image: "/img/timeline/houseware.png"
+    date: "August 2021 - Present"
+    description: "Co-Founder & CTO at Houseware" 
+
   - image: "/img/timeline/radicali.jpg"
-    date: "Nov 2018 - Present"
+    date: "Nov 2018 - August 2021"
     description: "Co-Founder & CTO at Radicali" 
 
   - image: "/img/timeline/ef.png"
@@ -166,7 +170,7 @@ email: "shubhankar24@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Shubhankar is an awesome person. He's Co-Founder & CTO of Radicali, building the first digital assistant for compliance. In his spare time, he likes to go out on runs!"
+author_blurb: "Shubhankar is an awesome person. He's Co-Founder & CTO of Houseware, building the command center for modern revenue teams. In his spare time, he likes to go out on runs!"
 author_blurb_image: "/img/shubhankar.jpeg"
 
 ##################
