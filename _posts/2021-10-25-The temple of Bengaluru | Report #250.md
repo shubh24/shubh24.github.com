@@ -17,3 +17,5 @@ i've been to a couple house viewings in the search for home sweeet home. There's
 i met up with the college wing on Friday night at a new place in Kora, spending the better part of the evening talking about work, relationships, life. Time flies away with people you like. i met up with the Singapore friend group on Sunday night as we watched the World Cup cursing India along the way. Played a few games, and caught up with everything happening in their lives - lot of fun. i went out on a first date on Saturday night, a slightly nervous experience but i love the feeling it generates within me. Talking and getting along with strangers you like is a hard thing to get good at, guess this is what they say is the hard thing about hard things. Adult joke, shit.
 
 On the fitness front, i got in two short runs at a nearby park, a couple hotel gym workouts, and one BJJ session at the new-found dojo! i bought myself another pair of Asics Nimbus, always fun to break into new shoes. 
+
+Keep hammerin'
