@@ -8,10 +8,9 @@ tags: [ 'houseware', 'startup', 'bengaluru', 'mumbai', 'fitness', 'diwali' ]
 
 Welcome to #251, a 2-week report this time. And Happy Diwali to y'all!
 
-<iframe width="1920" height="1080" src="https://www.youtube.com/embed/lCDHMNuwVXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-Fresh banger by the Young Stunners, this is on loop right now
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCDHMNuwVXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The first week was heavy on backend development, as i wrote a bunch of API integrations. i've been reading up on data engineering this week to stay savvy. We had a bunch of external meetings recently that have kept us busy as well. i reflected on the two weeks Divyansh and i worked together, and we worked really well making quick decisions, building a hive mind and infecting each other with energy. The few things i need to get better are clocking contiguous hours of deep work, as well as documenting our discussions/decisions to prepare for remote.
+The first week was heavy on backend development, as i wrote a bunch of API integrations. i've been reading up on data engineering this week to stay savvy. We had a bunch of external meetings recently that have kept us busy as well. i reflected on the two weeks Divyansh and i worked together in BLR - we got better at making quick decisions, building a hive mind and infecting each other with energy. The few things i need to get better are clocking contiguous hours of deep work, as well as documenting our discussions/decisions to prepare for remote.
 
 i took quite a few Ubers in Bangalore in the househunt project, and eventually found a nice 2bhk that is hopefully home for the next few years. i took a flight to Bombay last Friday, and spent my time in the air penning down the ideal lifestlye i shall optimize for. Time and effort required to set up a sweet workstation, a sweeter chillstation - excited!
 
