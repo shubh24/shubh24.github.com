@@ -9,6 +9,7 @@ tags: [ 'houseware', 'startup', 'bengaluru', 'mumbai', 'fitness', 'diwali' ]
 Welcome to #251, a 2-week report this time. And Happy Diwali to y'all!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lCDHMNuwVXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Fresh banger by the Young Stunners, this is on loop right now
 
 The first week was heavy on backend development, as i wrote a bunch of API integrations. i've been reading up on data engineering this week to stay savvy. We had a bunch of external meetings recently that have kept us busy as well. i reflected on the two weeks Divyansh and i worked together in BLR - we got better at making quick decisions, building a hive mind and infecting each other with energy. The few things i need to get better are clocking contiguous hours of deep work, as well as documenting our discussions/decisions to prepare for remote.
 
