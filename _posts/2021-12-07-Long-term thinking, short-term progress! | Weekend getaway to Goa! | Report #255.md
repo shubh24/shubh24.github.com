@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Long-term thinking, short-term progress | Weekend getaway to Goa! | Report 255"
+title: Long-term thinking, short-term progress | Weekend getaway to Goa! | Report 255
 category: report
 tags: [ 'houseware', 'startup', 'bangalore', 'goa', 'fitness' ]
 ---
