@@ -18,6 +18,6 @@ i took a bus to Goa on Thursday night and spent three days+two nights exploring 
 
 Walks on the beach are beautiful and humbling, takes the mind completely out of the day-to-day into a different state of consciousness. Listening to other people's life stories makes me think about mine, and how there are so many experiences being forged in real-time all around the world while we feel that we are the only ones having a special existence. Travel reminds me that all i have is this body and this mind, all material possessions are extra and nice-to-have.
 
-Got my kitchen into a working state last week, inaugrated it with my favorite dal khichidi. Started reading Kundalini by Om Swami, a book on the origins of the primordial energy - very interesting reading stories about the Gods. My wake-up times went out for a toss last week, and so ahve my morning energy levels. Need to get this fixed asap with early morning workouts this week onwards.
+Got my kitchen into a working state last week, inaugrated it with my favorite dal khichidi. Started reading Kundalini by Om Swami, a book on the origins of the primordial energy - very interesting reading stories about the Gods. My wake-up times went out for a toss last week, and so have my morning energy levels. Need to get this fixed asap with early morning workouts this week onwards.
 
 Still a few weeks left in '21. Keep hammering.
