@@ -1,8 +1,8 @@
 ---
 layout: post
 section-type: post
-title: Title
-category: Celebrating the New Year, a trip to Alibaug, and contracting Covid! | Report 258
+title: Celebrating the New Year, a trip to Alibaug, and contracting Covid! | Report 258
+category: report
 tags: [ 'new year', 'travel', 'fitness' ]
 ---
 
