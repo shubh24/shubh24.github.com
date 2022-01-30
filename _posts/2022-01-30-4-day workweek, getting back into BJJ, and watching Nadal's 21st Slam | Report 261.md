@@ -10,7 +10,7 @@ Welcome to 261!
 
 Solid workweek where i spent three days working out of the office as we took Wednesday off for Republic Day. Spent some time thinking and communicating the why of what we do, especially around the architecture. Interacting with the team members regularly is helping us build a good culture, the Friday demo where i watch people showcase something they care about - makes me feel grateful for what we do! 
 
-The recency bias is so strong that i have to exerting extra brain muscle to remember the days before Thursday. Earlier in the week, i watched JBP on JRE and one of the lines that stuck with me goes, "To dance on the edge of chaos and order" - that's where we'll find stuggle and flow.
+The recency bias is so strong that i have to exert extra brain muscle to remember details pre-Thursday. Earlier in the week, i watched JBP on JRE and one of the lines that stuck with me goes, "To dance on the edge of chaos and order" - that's where we'll find stuggle and flow.
 
 On the fitness front, i put in two runs, two gym + 1 NTC workouts, 2 BJJ classes and 7 stretching sessions! i did some wrestling drills, learnt butterfly over-under guard and Kuzure Kesa Gatame at the classes, and realized why i'd fallen in love with the sport in the first place. Raring to go back to the gym this week! Got myself yoga blocks to go harder on the stretching sessions, progress on mobility is so slow and difficult to see, but i shall believe in the process and grind it out.
 
