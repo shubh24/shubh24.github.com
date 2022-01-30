@@ -14,4 +14,4 @@ i moved back to Bangalore on Wednesday night, these Bombay to Bangalore flights 
 
 On the fitness front, i put in three runs including a 10K at Cubbon earlier today! Separately, i put in 1 gym workout, 2 NTC home workouts and 4 stretching workouts this week. Aiming to get back to BJJ classes from this week onwards, it's been a very long break now. Broke the nofap streak somewhere around Day 15, currently on Day 2.
 
-Changing the day-to-day every once in a while makes me cognizant of how easy life can get. A hot water shower and a good office chair can numb us to how great of luxuries these are. i ride my bicycle to work, but on traffic signals i see beggar kids olging at the bike as if it were a UFO spaceship. Life's not fair, i'll keep playing the hand i got. Keep hammerin'
+Changing the day-to-day every once in a while makes me cognizant of how easy life can get. A hot water shower and a good office chair can numb us to how great of luxuries these are. i ride my bicycle to work, but on traffic signals i see beggar kids ogling at the bike as if it were a UFO spaceship. Life's not fair, i'll keep playing the hand i got. Keep hammerin'
