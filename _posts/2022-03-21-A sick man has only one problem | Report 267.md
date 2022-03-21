@@ -14,6 +14,6 @@ At work, i spent some time working on API contracts and scoping out our applicat
 
 Headed to Bombay to celebrate Holi over the weekend, but spent a good amount resting my intestines instead. Walked around the colony with family, and talked about everything under the stars. Going home is an important exercise in grounding, keeps me rooted to what it all means for people that really matter. Heard Sadhguru on Rogan recently, and that conversation gave me a bunch to process as well. Such a complex puzzle life is!
 
-On the fitness front, i put in two gym workouts, 1 abs and 1 stretching session. It's probably been the longest layoff i've seen in years, but i shall be back on track soon. It's been over a week since i've been on Sunsama, and the hour tracking is helping keep things in check - ensures i don't overcommit on any given day. More importantly, keeps the nagging doubt that i might be missing something on my schedule.
+On the fitness front, i put in two gym workouts, 1 abs and 1 stretching session. It's probably been the longest layoff i've seen in years, but i shall be back on track soon. It's been over a week since i've been on Sunsama, and the hour tracking is helping keep things in check - ensures i don't overcommit on any given day. More importantly, keeps away the nagging doubt that i might be missing something on my schedule.
 
 Keep hammerin'
