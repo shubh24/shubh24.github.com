@@ -16,7 +16,7 @@ Hotel-hopped and spent the weekend in Aerocity for Avni's wedding - danced on Sa
 
 On the fitness front, i put in two BJJ sessions(learnt Single-leg X Guard, wrestled and sparred), one run at the Lodhi Gardens, 1 leg workout that had my DOMS activated for 3 days, and one swim session at the wedding for recovery.
 
-Breaking the routine is fun once in a while - helps me change the mindspace and helps me reset. By the way, Casey dropped a new video today - a beautiful day indeed!
+Breaking the routine is fun once in a while - helps me change the mindspace and reset. By the way, Casey dropped a new video today - a beautiful day indeed!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8H771jAxq9E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
