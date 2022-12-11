@@ -122,11 +122,11 @@ events:
 
   - image: "/img/timeline/houseware.png"
     date: "August 2021 - Present"
-    description: "Co-Founder & CTO at Houseware" 
+    description: "Co-Founder, Houseware" 
 
   - image: "/img/timeline/radicali.jpg"
     date: "Nov 2018 - August 2021"
-    description: "Co-Founder & CTO at Radicali" 
+    description: "Co-Founder, Radicali" 
 
   - image: "/img/timeline/ef.png"
     date: "July 2018 - Nov 2018"
