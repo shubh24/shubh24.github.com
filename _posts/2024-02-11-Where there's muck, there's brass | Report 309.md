@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Where there's much, there's brass | Report 309
+title: Where there's muck, there's brass | Report 309
 category: report
 tags: [ 'startup', 'houseware', 'travel', 'covid', 'fitness' ]
 ---
