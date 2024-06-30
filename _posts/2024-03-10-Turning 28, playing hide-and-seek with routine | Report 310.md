@@ -1,8 +1,8 @@
 ---
 layout: post
 section-type: post
-title: Title
-category: Turning 28, playing hide-and-seek with routine | Report 310
+title: Turning 28, playing hide-and-seek with routine | Report 310
+category: report
 tags: [ 'houseware', 'startup', 'bangalore', 'delhi', 'bombay', 'travel', 'birthday', 'fitness' ]
 ---
 
