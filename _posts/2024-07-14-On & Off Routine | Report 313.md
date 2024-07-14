@@ -9,7 +9,7 @@ tags: [ 'startup', 'houseware', 'fitness', 'travel' ]
 Welcome to 313, back on the weekend blog after a couple weeks. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0ITI1CnFv2A?si=QIwjo7MAZxI_Rjgt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-313. Finally. i've waited too long to use this video on my blog ha!
+313, Finally. i've waited too long to use this video on my blog ha!
 
 Been a wild couple weeks for rap. Kdot dropped the video for NotLikeUs, while Em dropped his brand new album. DJT escaped an assasination attempt earlier today, and 50Cent's 'Many Men' came back to life in the zeitgeist. 
 
