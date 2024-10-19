@@ -66,7 +66,7 @@ lines: # You can add HTML Tags in the Text
   - text: "How you do anything is how you do everything."
   - text: "What seems hard now, will one day be your warmup."
 
-me-img: "/img/shubhankar_profile_picture.jpeg"
+me-img: "/img/shubhankar-brussels.jpg"
 
 ##############################
 # Color the browser elements #
@@ -171,7 +171,7 @@ email: "shubhankar24@gmail.com"
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "Shubhankar is an awesome person. He's Co-Founder at Houseware, building the next generation of Analytics. In his spare time, he likes to go out on runs!"
-author_blurb_image: "/img/shubhankar_profile_picture.jpeg"
+author_blurb_image: "/img/shubhankar-brussels.jpg"
 
 ##################
 # Social Buttons #
