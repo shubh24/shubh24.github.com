@@ -12,7 +12,7 @@ Welcome to 323!
 
 i wish teleporting/time-travel was real, and we could all just move to any place in time instantly. Wouldn't life be so much more fun?! This is one of those "good and hard" quests out there that i would devote my entire life to! 
 
-![Good and Hard Quests]({{site.baseurl}}/images/good-hard-quest.png)
+![Good and Hard Quests]({{site.baseurl}}/images/good-hard-quests.png)
 
 i realized that earlier in life, i used to think time is limited and i need to achieve all my goals quickly. That's true, but also i've built a PoV where i'm more patient with life, and if that means i change gears to focus on starting a family and building that for 5-10 years, that increasingly seems more and more sensible. Growing up is fun!
 
