@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Reading is a cheat code! | Report 324
 category: report
-tags: [ 'tag1', 'tag2' ]
+tags: [ 'houseware', 'startup', 'fitness', 'reading' ]
 ---
 
 Welcome to 324, can't believe it's December already. i was reflecting on the vision document i'd written late December last year, and i was happy to see how i've come through on my goals. 
