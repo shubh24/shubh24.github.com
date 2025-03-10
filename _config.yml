@@ -120,9 +120,13 @@ syntax-highlight: True
 
 events:
 
+  - image: "/img/timeline/launchdarkly_logo.png"
+    date: "Jan 2025 - Present"
+    description: "Head of Engineering, LaunchDarkly" 
+
   - image: "/img/timeline/houseware_logo.png"
-    date: "August 2021 - Present"
-    description: "Co-Founder, Houseware" 
+    date: "August 2021 - Jan 2025"
+    description: "Co-Founder, Houseware (acquired by LaunchDarkly)" 
 
   - image: "/img/timeline/radicali.jpg"
     date: "Nov 2018 - August 2021"
