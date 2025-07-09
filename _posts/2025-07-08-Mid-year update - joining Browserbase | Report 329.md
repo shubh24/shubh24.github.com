@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Mid-year update: joining Browserbase | Report 329
+title: Mid-year update - Joining Browserbase | Report 329
 category: report
 tags: [ 'startup', 'browersbase', 'travel', 'san francisco', 'hawaii' ]
 ---
